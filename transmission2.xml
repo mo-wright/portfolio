@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- relNum = relative number, i.e. the sentence number within the given message and not through the entire entry ('n' attribute)-->
+<!-- 'cntry' data given to cities, towns, etc. 'who' data given to people whose full names could be found -->
+
+<entry date="1858-08-25">
+    <msg n="1">
+        <head><sender>Newfoundland</sender> to <receive>Valentia</receive></head>
+        <body>“<sent n="1" relNum="1"><loc>Persia</loc> takes <loc>Europa</loc>’s passengers and
+                mail.</sent>
+            <sent n="2" relNum="2">Great rejoicing everywhere at success of cable. Bonfires,
+                fireworks, feu de joies, speeches, balls, etc., etc.</sent>
+            <sent n="3" relNum="3"><ppl>Mr. Eddy</ppl>, the first and best telegrapher in the
+                    <loc>States</loc>, died to-day.</sent>
+            <sent n="4" relNum="4">Pray give some news for <loc cntry="USA">New York</loc>; they are
+                mad for news.</sent>”</body>
+    </msg>
+
+    <msg n="2">
+        <head><sender>Valentia</sender> to <receive>Newfoundland</receive></head>
+        <body>“<sent n="5" relNum="1">Understand. Sent to <loc cntry="ENG">London</loc> for
+                news.</sent>
+            <sent n="6" relNum="2">Meantime take <ppl who="William Thomson">Thomson</ppl>’s
+                currents.</sent><sent n="7" relNum="3"> Say when ready.</sent>”</body>
+    </msg>
+
+    <msg n="3">
+        <head><sender>Newfoundland</sender> to <receive>Valentia</receive></head>
+        <body>“<sent n="8" relNum="1">Splendid sendering. We are quite ready.</sent>” “<sent n="9"
+                relNum="2"><ppl>Murray</ppl> to <ppl who="William Thomson">Thomson</ppl>:—Signals
+                very weak. sender stronger acid.</sent>” “<sent n="10" relNum="3">Can you
+                receive?</sent>”</body>
+    </msg>
+
+    <msg n="4">
+        <head><sender>Valentia</sender> to <receive>Newfoundland</receive></head>
+        <body>“<sent n="11" relNum="1"><ppl who="William Thomson">Thomson</ppl> to
+                    <ppl>McFarlane</ppl>:—Where are keys of the glass cases and drawers in the
+                apparatus-room?</sent>”</body>
+    </msg>
+
+    <msg n="5">
+        <head><sender>Newfoundland</sender> to <receive>Valentia</receive></head>
+        <body>“<sent n="12" relNum="1"><ppl>McFarlane</ppl> to <ppl who="William Thomson"
+                    >Thomson</ppl>:—Don’t recollect.”</sent></body>
+    </msg>
+
+    <msg n="6">
+        <head><sender>Valentia</sender> to <receive>Newfoundland</receive></head>
+        <body>
+            <sent n="13" relNum="1">“<ppl>Saward</ppl> to <ppl who="Charles V. de Sauty">De
+                    Sauty</ppl>:—Are American wires broken, or working?”</sent>
+        </body>
+    </msg>
+
+    <msg n="7">
+        <head><sender>Newfoundland</sender> to <receive>Valentia</receive></head>
+        <body>
+            <sent n="14" relNum="1">“Working.”</sent>
+        </body>
+    </msg>
+
+    <msg n="8">
+        <head><sender>Valentia</sender> to <receive>Newfoundland</receive></head>
+        <body>
+            <sent n="15" relNum="1">“<ppl who="Cyrus W. Field">Field</ppl>:—I sender my warmest
+                congratulations on the success of the Atlantic Telegraph. God be praised!
+                    <ppl>GURNEY</ppl>.”</sent>
+        </body>
+        <note>(This was acknowledged by Newfoundland.)</note>
+        <body>“<sent n="16" relNum="2"><loc>North American</loc> with <loc>Canadian</loc>, and the
+                    <loc>Asia</loc> with direct <loc cntry="USA">Boston</loc> mails, leave <loc
+                    cntry="ENG">Liverpool</loc>, and <loc cntry="USA">Fulton</loc>
+                <loc cntry="USA">Southampton</loc>, Saturday next.</sent><sent n="17" relNum="3">
+                To-day’s morning papers have long, interesting reports by Bright. Indian
+                news.</sent><sent n="18" relNum="4">—Virago arrived at <loc cntry="ENG"
+                    >Liverpool</loc> to-day; Bombay dates 19 July. Mutiny being rapidly
+                quelled.”</sent></body>
+    </msg>
+
+    <msg n="9">
+        <head><sender>Newfoundland</sender> to <receive>Valentia</receive></head>
+        <body> “<sent n="19" relNum="1"><ppl>Sampson</ppl>, <loc cntry="ENG">London</loc>:—I will
+                attend to your request.</sent>
+            <sent n="20" relNum="1">Have no doubt I can do what you require.</sent>
+            <sent n="21" relNum="2"><ppl who="Cyrus W. Field">CYRUS W. FIELD</ppl></sent>.”</body>
+        <note>This was acknowledged by Newfoundland.</note>
+    </msg>
+
+
+</entry>
