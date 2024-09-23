@@ -6,11 +6,7 @@
      Look for the text in the <title> element in the tab above the browser search bar. Do you see it? 
     -->
     <head>
-        <!-- What's in the <head> element is a "meta" area not for display. 
-            It holds important information about the website's contents.
-            The text inside the <title> element does show in the top tab of a web browser. 
-             The <head> is where we will include info about styling the site, too. -->
-        <title>Starter HTML</title>
+        <title>mo's test website</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <!-- Here is a place where we can add a little styling code called CSS to this page. 
@@ -18,43 +14,62 @@
         -->
         <style>
             body {
-                background: LightSteelBlue;
+                background: IndianRed;
+                color: LemonChiffon;
             }
-          </style>
+            a:link {
+                color: DarkTurquoise;
+                background-color: transparent;
+                text-decoration: none;
+            }
+            
+            a:visited {
+                color: LawnGreen;
+                background-color: transparent;
+                text-decoration: none;
+            }
+            .center {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 50%;
+            }</style>
     </head>
     <body>
-        <!-- CONTENT FOR DISPLAY. The <body> element holds the content we see in the display window on the web browser.-->
-        <h1>Beginning HTML</h1>
-        <p>Here is some sample HTML to look at. This is a body paragraph with some
-                <strong>inline</strong> code to feature some text. Here is <a
-                href="https://behrend.psu.edu/penn-state-behrend">a link to an external
-            website</a>.</p>
-        <p>One of the best resources for learning HTML is <a href="https://www.w3schools.com/html/default.asp">w3Schools</a>. 
-            Here is a reference for <a href="https://htmlcolorcodes.com/">color codes you can use for styling</a>.</p>
-        <p>Each p element is a <strong>block</strong> element designed to make a block on the
-            page.</p>
-        <h2>What are block elements good for?</h2>
-        <p>The next element after this is a ul, or <q>unordered list</q>. It makes a bulleted list.</p>
+        <h1>This is</h1>
+        <h2>descending text</h2>
+        <h3>getting smaller</h3>
+        <h4>and smaller</h4>
+        <br />
+        <h1 style="color:LightPink">Line breaks are fun!</h1>
+        <br />
+        <p>words can be <strong>bold</strong> or a <a
+                href="https://behrend.psu.edu/penn-state-behrend">link</a>.</p>
+        <h2><i>these ones are italic! wow!</i></h2>
+        <p><sup>superscript</sup><sub>subscript</sub><sup>superscript</sup><sub>subscript</sub><sup>superscript</sup><sub>subscript</sub></p>
+        <h2>Edited block link fun!</h2>
+        <p>Here are a list of things in the room I am currently in:</p>
         <ul>
-            <li>headings</li>
-            <li>paragraphs</li>
-            <li>lists</li>
-            <li>tables</li>
-            <li>images</li>
+            <li>chairs</li>
+            <li>microwave</li>
+            <li>loveseat</li>
+            <li>desks</li>
+            <li>water bottle</li>
         </ul>
-        
-        <p>How about we look at an ol element, or <q>ordered</q> list? The code looks very similar to the <q>unordered</q> list. 
-            You have to see the difference by viewing in a web browser.</p>
+        <p>Here are my top played artists of the last 90 days according to <a
+                href="https://www.last.fm/user/kerpudangle/library/artists?date_preset=LAST_90_DAYS"
+                >last.fm</a></p>
         <ol>
-            <li>morning</li>
-            <li>noon</li>
-            <li>afternoon</li>
-            <li>evening</li>
-            <li>night</li>
+            <li>King Gizzard and the Lizard Wizard</li>
+            <li>PJ Harvey</li>
+            <li>Chappell Roan</li>
+            <li>Charli xcx</li>
+            <li>Thee Oh Sees</li>
         </ol>
         <figure>
-            <img src="images/newt-mosaic4.png"/>
-            <figcaption>a stylized image of a firebelly newt that Dr. B made as a web logo on <a href="https://newtfire.org">newtfire.org</a></figcaption>
-        </figure> 
+            <img class="center"
+                src="https://t4.ftcdn.net/jpg/01/26/96/79/360_F_126967956_cw7Hj9jZBSMq0LhmQOt1thg8FPubxF8Q.jpg" />
+            <figcaption class="center">You've probably seen a triangle before!</figcaption>
+        </figure>
     </body>
 </html>
