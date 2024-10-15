@@ -64,9 +64,17 @@ figure{
 
 iframe{
      height: 360px;
-     width: 640px;
+     width: auto;
      padding: 15px;
      background: #BCE954;
+     text-align:center;
+     
+}
+
+.bitsy{
+    height: 384px;
+    width: 384px;
+    
 }
 
 
