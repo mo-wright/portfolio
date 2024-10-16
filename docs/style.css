@@ -34,6 +34,26 @@ img{
     padding: 15px;
     background: #BCE954;
     }
+
+.minilogo{
+    height:30px;
+    width:auto;
+    padding: 0;
+    background: none;
+    display:flex;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.mlcontain{
+    display:flex;
+    margin-left: 40%;
+    margin-right:auto;
+}
+
+.buttonflex{
+    display:flex;
+}
     
 h1 {
   font-size: 50px;
@@ -77,5 +97,34 @@ iframe{
     
 }
 
+.project{
+     background: #e38686;
+    padding:20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 65%;
+    display:block;
+
+}
+
+button{
+  border: none;
+  color: black;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display:inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: LemonChiffon;
+  
+}
+button:hover {
+  background-color: LawnGreen;
+  color: white;
 
 
