@@ -17,9 +17,9 @@ a:visited {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
+    width: 85%;
     background: #e38686;
-    padding:2em;
+    padding:1em;
     }
     
 nav {
@@ -126,5 +126,7 @@ button{
 button:hover {
   background-color: LawnGreen;
   color: white;
-
-
+}
+figure{
+    display:inline-block;
+}
