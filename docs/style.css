@@ -2,6 +2,15 @@ body {
     background: IndianRed;
     color: LemonChiffon;
 }
+
+.comparey body{
+    background: #191919;
+    color:white;
+}
+.comparey h1{
+        text-shadow: 0px 0px 10px White;
+
+}
 a:link {
     color: DarkTurquoise;
     background-color: transparent;
@@ -17,6 +26,7 @@ a:visited {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top:20px;
     width: 85%;
     background: #e38686;
     padding:1em;
@@ -110,6 +120,56 @@ iframe{
     display:block;
     box-shadow: 0px 0px 5px #ba2839;
 
+}
+
+.peaks{
+background: #d32f2f;
+text-align:left;
+color:white;
+float:left;
+overflow:hidden;
+width:45%;
+margin-left:2em;
+margin-right:auto;
+margin-top:30px;
+box-shadow: 0px 0px 10px white;
+}
+.xfiles img{
+    display:block;
+}
+.peaks img{
+    display:block;
+}
+
+.peaks h2{
+    margin-right:auto;
+    margin-left:auto;
+    margin-bottom:10px;
+}
+.xfiles h2{
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:10px;
+}
+.xfiles p{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.peaks p{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.xfiles{
+background:#1cc22a;
+text-align:left;
+color:white;
+width:45%;
+float:right;
+overflow:hidden;
+margin-right:2em;
+margin-left:auto;
+margin-top:30px;
+box-shadow: 0px 0px 10px white;
 }
 
 button{
