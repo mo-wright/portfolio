@@ -2,7 +2,10 @@ body {
     background: IndianRed;
     color: LemonChiffon;
 }
-
+ul{
+    text-align:center;
+    margin-bottom:30px;
+}
 .comparey body{
     background: #191919;
     color:white;
