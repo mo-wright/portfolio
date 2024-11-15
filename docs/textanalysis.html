@@ -7,55 +7,163 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         <link rel="stylesheet" type="text/css" href="style.css" />
-        <link rel="icon" type="image/x-icon" href="images\logo.ico"></link>
-            
+        <link rel="icon" type="image/x-icon" href="images\logo.ico" />
+
 
     </head>
-    
+
     <body class="textypage">
         <nav>
-            <form><button formaction="index.html">Home</button>
+            <form id="top"><button formaction="index.html">Home</button>
                 <button formaction="gallery.html">Art Gallery</button>
                 <button formaction="classwork.html">Classwork</button>
                 <button formaction="resume.html">Resume</button>
-           </form>
+            </form>
         </nav>
-        <hr></hr>
-            <h1>Text Analysis</h1>
-            <h2>Twin Peaks (Original Run) vs. X-Files Seasons 1 and 2</h2>
-        <div style="display: flex;"><div  class="center">
+        <hr />
+        <h1>Text Analysis</h1>
+        <h2>Twin Peaks (Original Run) vs. X-Files Seasons 1 and 2</h2>
+        <div style="display: flex;">
+            <div class="center">
                 <h2>Some Notes About the Selections</h2>
-            <h3>The Twin Peaks scripts were sourced from <a href="https://sites.google.com/site/tvwriting/us-drama/us-drama-collections/twin-peaks?authuser=0">TV Writing</a>. The majority of the scripts were scanned by runningdog. A substantial amount from these scans were cleaned out for my purposes, including some annotations and a few instances of markup separating scenes. The general content is otherwise unchanged.</h3>
-                <h3>A special thanks to <a href="https://insidethex.co.uk/">Inside the X</a> for the X-Files scripts. The original contents are unchanged except for some cleanup for the purposes of AntConc/Voyant streamlining.</h3>
+                <p>The Twin Peaks scripts were sourced from <a
+                        href="https://sites.google.com/site/tvwriting/us-drama/us-drama-collections/twin-peaks?authuser=0"
+                        >TV Writing</a>. The majority of the scripts were scanned by runningdog. A
+                    substantial amount from these scans were cleaned out for my purposes, including
+                    some annotations and a few instances of markup separating scenes. The general
+                    content is otherwise unchanged.</p>
+                <br />
+                <h3>A special thanks to <a href="https://insidethex.co.uk/">Inside the X</a> for the
+                    X-Files scripts. The original contents are unchanged except for some cleanup for
+                    the purposes of AntConc/Voyant streamlining.</h3>
             </div>
             <div style="margin-left: 10px;" class="center">
                 <h2>Purpose and Relevance</h2>
-                <h3>Visit my <a href="https://github.com/mo-wright/portfolio">GitHub Repo</a>, to see the dataset text files I'm working with.</h3>
-                <p>The original run of Twin Peaks ran from April 1990 to its cancellation in 1991. The first two seasons of X-Files ran in 1993 and 1994. While they weren't concurrent with each other, the combination of detective work with supernatural, strange happenings captured incredibly similar audiences. Both are remembered for filling more or less the same niche. These two serieses are there for ripe for comparison with each other to understand just how justified the comparisons are, and how two separate groups of writers tackled surfacely similar subjects. Plus - they both had Dave Duchovny. Make of that what you will.</p>
-                <p>I made the decision not to include Twin Peaks: Fire Walk With Me, The Return, or the later seasons/ 2016 revival of X-Files. FWWM is a prequel and follows a different subset of characters, which I felt wouldn't contribute much to analyzing the overall show format, as it is structured more like a traditional movie. As for The Return, being written 25 years after the conclusion of the original show, and the purposefuly different "vibe", means that there aren't too much similarities that would improve the dataset all that much. I have similar reasons for excluding later X-Files media. The .txt files used for each show wound up being about the same length when these omissions are accounted for.</p>
+                <h3>Visit my <a href="https://github.com/mo-wright/portfolio">GitHub Repo</a>, to
+                    see the dataset text files I'm working with.</h3>
+                <p>The original run of Twin Peaks ran from April 1990 to its cancellation in 1991.
+                    The first two seasons of X-Files ran in 1993 and 1994. While they weren't
+                    concurrent with each other, the combination of detective work with supernatural,
+                    strange happenings captured incredibly similar audiences. Both are remembered
+                    for filling more or less the same niche. These two serieses are there for ripe
+                    for comparison with each other to understand just how justified the comparisons
+                    are, and how two separate groups of writers tackled surfacely similar subjects.
+                    Plus - they both had Dave Duchovny. Make of that what you will.</p>
+                <p>I made the decision not to include Twin Peaks: Fire Walk With Me, The Return, or
+                    the later seasons/ 2016 revival of X-Files. FWWM is a prequel and follows a
+                    different subset of characters, which I felt wouldn't contribute much to
+                    analyzing the overall show format, as it is structured more like a traditional
+                    movie. As for The Return, being written 25 years after the conclusion of the
+                    original show, and the purposefuly different "vibe", means that there aren't too
+                    much similarities that would improve the dataset all that much. I have similar
+                    reasons for excluding later X-Files media. The .txt files used for each show
+                    wound up being about the same length when these omissions are accounted for.</p>
             </div>
         </div>
-            <h1>Overviews</h1>
-        
-        <div style="display: flex;"><div class="peaks">
-            <h2>Twin Peaks</h2>
-            <h3>Top 250 Most Frequent 1-grams</h3>
-            <p>As suspected, Twin Peak's main protagonist, Special Agent Dale Cooper, takes up the most room in the original run's script. The majority of terms showing up even comparatively often are other main characters. Being a story with many different perspectives followed, this is hardly unexpected. It appears that Detective Truman, Donna Hayward, and Ben Horne are either referred to the most or have the most dialogue.</p>
-            <p>"Continued" shows up as the second most frequent 1-gram because of how the scripts appear to be formatted. As the scans were sourced from the official scripts used, this gives us some insight into how the writers chose to break up the show. Twin Peaks is a linear story, and does not follow a "Monster of the Week" formula popularized around the same time as it aired. The continual use of "continued" may give us insight into how threads are melded into each other. As we look deeper, we will eventually see that this is the case (with many instances of "To Be Continued...", but also a quirk in how action cues are written.</p>
+        <h1>Overviews</h1>
+        <div style="display: flex;">
+            <div class="peaks">
+                <h2>Twin Peaks</h2>
+                <h3>Top 250 Most Frequent 1-grams</h3>
+                <p>As suspected, Twin Peak's main protagonist, Special Agent Dale Cooper, takes up
+                    the most room in the original run's script. The majority of terms showing up
+                    even comparatively often are other main characters. Being a story with many
+                    different perspectives followed, this is hardly unexpected. It appears that
+                    Detective Truman, Donna Hayward, and Ben Horne are either referred to the most
+                    or have the most dialogue.</p>
+                <p>"Continued" shows up as the second most frequent 1-gram because of how the
+                    scripts appear to be formatted. As the scans were sourced from the official
+                    scripts used, this gives us some insight into how the writers chose to break up
+                    the show. Twin Peaks is a linear story, and does not follow a "Monster of the
+                    Week" formula popularized around the same time as it aired. The continual use of
+                    "continued" may give us insight into how threads are melded into each other. As
+                    we look deeper, we will eventually see that this is the case (with many
+                    instances of "To Be Continued..."), but also a quirk in how action cues are
+                    written.</p>
+            </div>
+            <img class="peaks" src="textfiles\tpcloud.png" />
         </div>
-        <img class="peaks" src="textfiles\tpcloud.png"></img></div>
-        
-        
-        <div style="display: flex;"><img class="xfiles" src="textfiles\xfilecloud.png"></img><div class="xfiles">
-            <h2>X-Files</h2>
-            <h3>Top 250 Most Frequent 1-grams</h3>
-            <p>Once again, we see main character names taking the forefront of the word cloud. However, the most notable diversion from the Twin Peaks cloud is how much more relative space these titles take up. This is mostly attributed to the fact that there are only two characters the show follows comprehensively. With that said, it is worth noting that Fox Mulder's surname appears in the scripts for the first two seasons 8,313 times - while Dana Scully's only shows up 5,822 times (nearly 30% less!)</p>
-            <p>Each episode of X-Files, from a script standpoint, was broken up into scenes. Twin Peaks, on the other hand, had its episodes broken up into acts. Even with that knowledge, it is still interesting to note how much space "Scene" takes up on X-File's chart. We can gather from this that each episode has many scenes. This, coupled with the higher variety in location markers present in the script, show that there is a lot more "jumping around" in time and space. </p>
-            <p>Our friends at <a href="https://insidethex.co.uk/">Inside the X</a> make a distinction between Monster of the Week episodes and Lore episodes. The former category may also explain the more spread-out delta of words..</p>
+        <div style="display: flex;">
+            <img class="xfiles" src="textfiles\xfilecloud.png" />
+            <div class="xfiles">
+                <h2>X-Files</h2>
+                <h3>Top 250 Most Frequent 1-grams</h3>
+                <p>Once again, we see main character names taking the forefront of the word cloud.
+                    However, the most notable diversion from the Twin Peaks cloud is how much more
+                    relative space these titles take up. This is mostly attributed to the fact that
+                    there are only two characters the show follows comprehensively. With that said,
+                    it is worth noting that Fox Mulder's surname appears in the scripts for the
+                    first two seasons 8,313 times - while Dana Scully's only shows up 5,822 times
+                    (nearly 30% less!)</p>
+                <p>Each episode of X-Files, from a script standpoint, was broken up into scenes.
+                    Twin Peaks, on the other hand, had its episodes broken up into acts. Even with
+                    that knowledge, it is still interesting to note how much space "Scene" takes up
+                    on X-File's chart. We can gather from this that each episode has many scenes.
+                    This, coupled with the higher variety in location markers present in the script,
+                    show that there is a lot more "jumping around" in time and space. </p>
+                <p>Our friends at <a href="https://insidethex.co.uk/">Inside the X</a> make a
+                    distinction between Monster of the Week episodes and Lore episodes. The former
+                    category may explain the more spread-out range between words. There were less
+                    consistently portrayed subjects or returning characters/settings in these
+                    episodes, which introduces more variety. </p>
+            </div>
         </div>
-       </div>
-        <h1>In Context</h1>
-        <h2>Twin Peaks</h2>
-        
+        <h1>Let's Dive In!</h1>
+        <h2>On Looking at One Another</h2>
+        <div style="display:flex;">
+            <img src="textfiles\antconcX1.png" class="analysisblockleft"/>
+            <img src="textfiles\antconcX2.png" class="analysisblock"/>
+            <img src="textfiles\antconcX3.png" class="analysisblockright" />
+        </div>
+        <div style="display: flex;">
+            <div class="xfiles">
+                <h2>What's Going On Here?</h2>
+                <br />
+                <p>These are charts of 5-grams. As we grow our n-gram lengths, we tend to see most of
+                    the hits being results of script disclaimers and archival information. Near the
+                    bottom, as we see in the first image, we see an interesting pattern of two very
+                    similar turns of phrase.</p>
+                <p>Who, exactly, is turning to look at each other? As it turns out: Mulder and
+                    Scully, mostly. Even when their names are not specified, the context reveals it
+                    was them. This appears to be directed to happen mostly in tense social
+                    situations. Naturally, our partners-in-crime protagonists would look to each
+                    other in reassurance, since the majority of this show plays on their dynamic.
+                    This begs the question, though, is this happening in Twin Peaks, where we've
+                    already established the prominence of Cooper and Truman in the
+                    scriptwriting?</p>
+            </div>
+            <img src="textfiles\muldscull.jpg" class="analysisimage"/>
+        </div>
+        <div class="peaks">
+            <h2>As it turns out...</h2>
+            <p>Yes! This theory rang fairly true, although it seemed that there was a wider variety
+                of characters looking at each other. The phrase 'looked at each other' actually
+                appeared more in the Twin Peaks corpus (25 hits vs. 15), but in reference to the two
+                leads, it was far less. This could be attributed to Twin Peaks following more
+                characters.</p>
+        </div>
+        <div>
+            <img src="textfiles\antconcP1.png" class="singleconc" />
+        </div>
+        <h1>On The Unknown</h1>
+        <div style="display:flex;">
+            <img src="textfiles\antconcX4.png" class="centeranalysisleft" />
+            <img src="textfiles\antconcP2.png" class="centeranalysisright" />
+        </div>
+        <div style="display:flex;">
+            <img src="textfiles\antconcP3.png" class="thirdanalysisleft"></img>
+            <div class="peaks">
+                <h2>Who Knows?</h2>
+                <br></br>
+                <p>One of the most common 4-grams for each series of texts was "I don't know". Seen on the left is Twin Peaks' count, on the right is X-Files. As both of these are mystery-focused series, it makes sense that there's a lot not to know. But what exactly is it that our characters are questioning?</p>
+                <br></br>
+                <p>Interestingly, the first three following words are the same: 'what', 'I', and 'how'. We don't see a deviation from this until, on the X-Files side, Mulder and Scully's names once agains appear. The only other first name that appears on that side of the list is Albert. Each instance of a first name on the Twin Peaks side only occurs once, with the exception of Truman.</p>
+                <br></br>
+                <p>Once again, we can use this as proof of X-File's focus on the dynamic between its leads.</p>
+            </div>
+            <img src="textfiles\antconcX5.png" class="thirdanalysisright"></img>
+        </div>
+        <br></br>
+        <p><a href="#top">Back to Top</a></p>
     </body>
 </html>

@@ -9,7 +9,17 @@ body {
 }
 .comparey h1{
         text-shadow: 0px 0px 10px White;
-
+}
+.comparey h2{
+        text-shadow: 0px 0px 10px White;
+        }
+.singleconc{
+    margin-top:20px;
+    margin-left:20%;
+    margin-right:auto;
+    background-color:white;
+    box-shadow: 3px 3px .4em #1cc22a, -1em 0 .4em #d32f2f;
+    
 }
 a:link {
     color: DarkTurquoise;
@@ -126,19 +136,97 @@ iframe{
 background: #d32f2f;
 text-align:left;
 color:white;
-float:left;
 overflow:hidden;
 width:45%;
-margin-left:2em;
+margin-left:auto;
 margin-right:auto;
 margin-top:30px;
 box-shadow: 0px 0px 10px white;
 }
-.xfiles img{
-    display:block;
+
+.analysisblock{
+    width:25%;
+    height:auto;
+    display:inline-block;
+    margin-left:0.5em;
+    margin-right:0.5em;
+    text-align:center;
+    margin-bottom:1em;
+    background-color:#1cc22a;
 }
-.peaks img{
-    display:block;
+
+.analysisblock:hover{
+    transform:scale(2);
+}
+
+.analysisblockleft{
+    width:25%;
+    height:auto;
+    display:inline-block;
+    margin-left:auto;
+    margin-right:0.5em;
+    text-align:center;
+    margin-bottom:1em;
+    background-color:#1cc22a;
+}
+.analysisblockleft:hover{
+    transform: scale(2)  translateX(100px);
+
+}
+.analysisblockright{
+    width:25%;
+    height:auto;
+    display:inline-block;
+    margin-left:0.5em;
+    margin-right:auto;
+    text-align:center;
+    margin-bottom:1em;
+    background-color:#1cc22a;
+}
+.analysisblockright:hover{
+    transform: scale(2)  translateX(-100px);
+}
+
+.analysisimage{
+    background-color:white;
+    margin-right:3em;
+}
+.centeranalysisleft{
+    width:25%;
+    height:auto;
+    margin-left:20em;
+    margin-right:0.5em;
+    margin-bottom:1em;
+     background-color:#1cc22a;
+    
+}
+.centeranalysisright{
+    width:25%;
+    height:auto;
+    margin-right:5em;
+    margin-left:0.5em;
+    margin-bottom:1em;
+    background-color:#d32f2f;
+    
+}
+
+.thirdanalysisright{
+    width:20%;
+    height:auto;
+    margin-right:10em;
+    margin-left:0.5em;
+    margin-top:2em;
+    background-color:#1cc22a;
+}
+.thirdanalysisleft{
+    width:20%;
+    height:auto;
+    margin-right:0.5em;
+    margin-left:10em;
+    margin-top:2em;
+    background-color:#d32f2f;
+
+    
 }
 
 .peaks h2{
@@ -166,7 +254,7 @@ color:white;
 width:45%;
 float:right;
 overflow:hidden;
-margin-right:2em;
+margin-right:auto;
 margin-left:auto;
 margin-top:30px;
 box-shadow: 0px 0px 10px white;
