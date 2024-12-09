@@ -115,6 +115,12 @@ iframe{
      text-align:center;
      
 }
+.kumu {
+    height:500px;
+    width: 900px;
+    margin-left:12%;
+    margin-right:auto;
+}
 
 .bitsy{
     height: 384px;
