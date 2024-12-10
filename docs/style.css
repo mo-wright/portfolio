@@ -59,6 +59,13 @@ img{
     background: #BCE954;
     }
 
+.ignore{
+    height:auto;
+    width:auto;
+    padding:0px;
+    background: none;
+}
+
 .minilogo{
     height:30px;
     width:auto;
@@ -320,4 +327,9 @@ nav button{
 }
 .resume a{
     color:#454545;
+}
+
+.commons{
+    text-align:center;
+    font-size:14px;
 }
