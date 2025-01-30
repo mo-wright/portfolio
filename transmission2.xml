@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- relNum = relative number, i.e. the sentence number within the given message and not through the entire entry ('n' attribute)-->
-<!-- 'cntry' data given to cities, towns, etc. 'who' data given to people whose full names could be found -->
-
 <entry date="1858-08-25">
     <msg n="1">
         <head><sender>Newfoundland</sender> to <receive>Valentia</receive></head>
