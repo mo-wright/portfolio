@@ -1,0 +1,17 @@
+## Starting regex
+
+	1. Preliminaries. Replaced every instance of `&` with `&amp;`. Replaced every instance of `â€™` with an apostrophe, `'` , for human-based formatting to be a little easier. This second substitution isn't entirely necessary.
+	2. **Dot match is on for these steps.** I began from the middle - finding `(CHAPTER [IVXCL]{1,})` and replacing it with `<title>\0</title>`. This got the Chapter titles. I figured the tags could be used to better grab the beginning and end of the Chapters, so the letters and dialogue within could be grabbed easier (making an inside out approach that starts at the middle)
+	3. Found `(<title>.*?)(?=<title>)` and replaced it with `<chapter>\0</chapter>`. This grabbed the contents of each Chapter, including the chapter's corresponding title but not the next chapter's title, and wrapped it in a Chapter tag.
+	4. **Dot match is off** Found `".*?"` to find entire chunks of text within quotes. Replaced with `<q>\0</q>
+	4. Found `\((.*?)\)` for parentheticals. Replaced with `<par>\0</par>`
+
+### Dates and Sectioning
+	1. Found `[123456789]{1,} (May|June|July|August|September|October|November)`, which matches the standard way I've found that dates are formatted within the text (X Month). A precursory Google search said that the story takes place from May to November, so I've included those in the set. Replaced with `<date>\0</date>`.
+	2. Then used `[123456789]{1,} (May|June|July|August|September|October|November|)\.` to capture the dares with periods afterwards. Replaced with `<date>\0</date>`
+	3. Found `^(.*?)(Journal|Diary).$` and a variant without a period for edge-cases, `^(.*?)(Journal|Diary)$`, to mark off journal entries. Replaced with `<jhead>\0</jhead>`
+		4. For a few, I used `^(.*?)Journal$` or `^(.*?)JOURNALâ€”continued`.
+		5. Did the same with telegram headings, finding `^telegram(.*?)$`.
+
+	6. Found `<jhead>(.*?)(?=<j)` to find the text between journal headers. Wrapped them in an <entry> tag.
+		7. Used `(?<=<jhead>)(.*?)(?=</chapter>)` to find the entries that were the last in a chapter.
