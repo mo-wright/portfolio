@@ -1,0 +1,8 @@
+document: film+.
+film: #a?, title, #9, year, #9, country, #9, runtime, #a?.
+title: (letter; [P]; " "; digit)+.
+-letter: ["a"-"z"]; ["A"-"Z"].
+year: digit, digit, digit, digit.
+-digit: ["0"-"9"].
+country:(letter; " "; #22; ",")+.
+runtime: digit, digit?, digit?, " ", "min" ; "N/A".
