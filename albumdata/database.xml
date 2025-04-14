@@ -1,0 +1,4815 @@
+﻿<?xml-stylesheet type="text/xsl" href="uniqueArtist.xsl"?>
+<xml>
+    <list>
+        <entry>
+            <artist>13th Floor Elevators</artist>
+            <album> The Psychedelic Sounds of the 13th Floor Elevators</album>
+        </entry>
+        <entry>
+            <artist>100 gecs</artist>
+            <album> 1000 gecs</album>
+        </entry>
+        <entry>
+            <artist>100 gecs</artist>
+            <album> snake eyes</album>
+        </entry>
+        <entry>
+            <artist>100 gecs</artist>
+            <album> 10,000 gecs</album>
+        </entry>
+        <entry>
+            <artist>ABBA</artist>
+            <album> Voulez-Vous</album>
+        </entry>
+        <entry>
+            <artist>ABBA</artist>
+            <album> Super Trouper</album>
+        </entry>
+        <entry>
+            <artist>ABBA</artist>
+            <album> Voyage</album>
+        </entry>
+        <entry>
+            <artist>Acid Bath</artist>
+            <album> When the Kite String Pops</album>
+        </entry>
+        <entry>
+            <artist>Acid Dad</artist>
+            <album> Take it from the Dead</album>
+        </entry>
+        <entry>
+            <artist>Acid Moon and the Pregnant Sun</artist>
+            <album> Speakin' Of The Devil</album>
+        </entry>
+        <entry>
+            <artist>Adrianne Lenker</artist>
+            <album> songs</album>
+        </entry>
+        <entry>
+            <artist>Adrianne Lenker</artist>
+            <album>
+                <album> Bright Future</album>
+            </album>
+        </entry>
+        <entry>
+            <artist>A Formal Horse</artist>
+            <album> Made in Chelsea</album>
+        </entry>
+        <artist>A Formal Horse</artist>
+        <album> Here Comes A Man From The Council With a Flamethrower</album>
+        <entry>
+            <artist>A Formal Horse</artist>
+            <album> Meat Mallet</album>
+        </entry>
+        <entry>
+            <artist>Against Me!</artist>
+            <album> New Wave</album>
+        </entry>
+        <entry>
+            <artist>Against Me!</artist>
+            <album> Transgender Dysphoria Blues</album>
+        </entry>
+        <entry>
+            <artist>a-Ha</artist>
+            <album> Hunting High and Low</album>
+        </entry>
+        <entry>
+            <artist>Air</artist>
+            <album> Moon Safari</album>
+        </entry>
+        <entry>
+            <artist>Alanis Morissette</artist>
+            <album> Jagged Little Pill</album>
+        </entry>
+        <entry>
+            <artist>Allah-Las</artist>
+            <album> Allah-Las</album>
+        </entry>
+        <entry>
+            <artist>Allah-Las</artist>
+            <album> Aquarium Drunkard’s Lagniappe Session</album>
+        </entry>
+        <entry>
+            <artist>Alex G</artist>
+            <album> TRICK</album>
+        </entry>
+        <entry>
+            <artist>Alex G</artist>
+            <album> House of Sugar</album>
+        </entry>
+        <entry>
+            <artist>Alex Maas</artist>
+            <album> Levitation Sessions</album>
+        </entry>
+        <entry>
+            <artist>Alex Silva</artist>
+            <album> Mind Pattern Explorer</album>
+        </entry>
+        <entry>
+            <artist>Alice in Chains</artist>
+            <album> Dirt</album>
+        </entry>
+        <entry>
+            <artist>Alice in Chains</artist>
+            <album> Jar of Flies</album>
+        </entry>
+        <entry>
+            <artist>Alice in Chains</artist>
+            <album> Alice in Chains</album>
+        </entry>
+        <entry>
+            <artist>Alive in Wild Paint</artist>
+            <album> Ceilings</album>
+        </entry>
+        <entry>
+            <artist>Altin Gün</artist>
+            <album> On</album>
+        </entry>
+        <entry>
+            <artist>Altin Gün</artist>
+            <album> Gece</album>
+        </entry>
+        <entry>
+            <artist>Altin Gün</artist>
+            <album> Yol</album>
+        </entry>
+        <entry>
+            <artist>Altin Gün</artist>
+            <album> Aşk</album>
+        </entry>
+        <entry>
+            <artist>Amyl and the Sniffers</artist>
+            <album> Giddy Up</album>
+        </entry>
+        <entry>
+            <artist>Amyl and the Sniffers</artist>
+            <album> Big Attraction</album>
+        </entry>
+        <entry>
+            <artist>Amyl and the Sniffers</artist>
+            <album> Amyl and the Sniffers</album>
+        </entry>
+        <entry>
+            <artist>Amyl and the Sniffers</artist>
+            <album> Comfort to Me</album>
+        </entry>
+        <entry>
+            <artist>Amyl and the Sniffers</artist>
+            <album> Cartoon Darkness</album>
+        </entry>
+        <entry>
+            <artist>Ana Frango Elétrico</artist>
+            <album> Little Electric Chicken Heart</album>
+        </entry>
+        <entry>
+            <artist>Angelfish</artist>
+            <album> Angelfish</album>
+        </entry>
+        <entry>
+            <artist>Angel Olsen</artist>
+            <album> Phases</album>
+        </entry>
+        <entry>
+            <artist>Animal Collective</artist>
+            <album> Sung Tongs</album>
+        </entry>
+        <entry>
+            <artist>Animal Collective</artist>
+            <album> Feels</album>
+        </entry>
+        <entry>
+            <artist>Animal Collective</artist>
+            <album> Merriweather Post Pavilion</album>
+        </entry>
+        <entry>
+            <artist>Animal Collective</artist>
+            <album> Painting With</album>
+        </entry>
+        <entry>
+            <artist>Animal Collective</artist>
+            <album> Time Skiffs</album>
+        </entry>
+        <entry>
+            <artist>Animals as Leaders</artist>
+            <album> Parrhesia</album>
+        </entry>
+        <entry>
+            <artist>Annette Peacock</artist>
+            <album> I’m The One</album>
+        </entry>
+        <entry>
+            <artist>Antadie</artist>
+            <album> I Lost the Winter</album>
+        </entry>
+        <entry>
+            <artist>Antony Kos</artist>
+            <album> All For When</album>
+        </entry>
+        <entry>
+            <artist>A Perfect Circle</artist>
+            <album> Mer De Noms</album>
+        </entry>
+        <entry>
+            <artist>Aphex Twin</artist>
+            <album> Selected Ambient Works, 85-92</album>
+        </entry>
+        <entry>
+            <artist>Aphex Twin</artist>
+            <album> Selected Ambient Works, Volume II</album>
+        </entry>
+        <entry>
+            <artist>Aphex Twin</artist>
+            <album> …I Care Because You Do</album>
+        </entry>
+        <entry>
+            <artist>Aphex Twin</artist>
+            <album> Richard D. James Album</album>
+        </entry>
+        <entry>
+            <artist>Aphex Twin</artist>
+            <album> Come to Daddy</album>
+        </entry>
+        <entry>
+            <artist>Aphex Twin</artist>
+            <album> Drukqs</album>
+        </entry>
+        <entry>
+            <artist>Aphex Twin</artist>
+            <album> Syro</album>
+        </entry>
+        <entry>
+            <artist>Aphex Twin</artist>
+            <album> Computer Controlled Acoustic Instruments pt2</album>
+        </entry>
+        <entry>
+            <artist>Aphex Twin</artist>
+            <album> Blackbox Life Recorder 21f / in a room7 F760</album>
+        </entry>
+        <entry>
+            <artist>The Apples in Stereo</artist>
+            <album> Fun Trick Noisemaker</album>
+        </entry>
+        <entry>
+            <artist>The Apples in Stereo</artist>
+            <album> Her Wallpaper Reverie</album>
+        </entry>
+        <entry>
+            <artist>Arabs in Aspic</artist>
+            <album> Strange Frame of Mind</album>
+        </entry>
+        <entry>
+            <artist>Arabs in Aspic</artist>
+            <album> Victim of Your Father’s Agony</album>
+        </entry>
+        <entry>
+            <artist>Asturias</artist>
+            <album> Brilliant Streams</album>
+        </entry>
+        <entry>
+            <artist>At the Drive-In</artist>
+            <album> In/Casino/Out</album>
+        </entry>
+        <entry>
+            <artist>Audioslave</artist>
+            <album> Out of Exile</album>
+        </entry>
+        <entry>
+            <artist>Au Revoir Simone</artist>
+            <album> The Bird of Music</album>
+        </entry>
+        <entry>
+            <artist>Autolux</artist>
+            <album> Pussy’s Dead</album>
+        </entry>
+        <entry>
+            <artist>The Avalanches</artist>
+            <album> Since I Left You</album>
+        </entry>
+        <entry>
+            <artist>The B-52’s</artist>
+            <album> The B-52’s</album>
+        </entry>
+        <entry>
+            <artist>The B-52’s</artist>
+            <album> Wild Planet</album>
+        </entry>
+        <entry>
+            <artist>The B-52's</artist>
+            <album> Mesopotamia</album>
+        </entry>
+        <entry>
+            <artist>Babe Rainbow</artist>
+            <album> The Babe Rainbow EP</album>
+        </entry>
+        <entry>
+            <artist>Babe Rainbow</artist>
+            <album> The Babe Rainbow</album>
+        </entry>
+        <entry>
+            <artist>Babe Rainbow</artist>
+            <album> Double Rainbow</album>
+        </entry>
+        <entry>
+            <artist>Babe Rainbow</artist>
+            <album> Today</album>
+        </entry>
+        <entry>
+            <artist>Babe Rainbow</artist>
+            <album> The Organic Band</album>
+        </entry>
+        <entry>
+            <artist>BABYMETAL</artist>
+            <album> BABYMETAL</album>
+        </entry>
+        <entry>
+            <artist>BABYMETAL</artist>
+            <album> Metal Resistance</album>
+        </entry>
+        <entry>
+            <artist>BADBADNOTGOOD</artist>
+            <album> IV</album>
+        </entry>
+        <entry>
+            <artist>Band of Skulls</artist>
+            <album> Baby Darling Doll Face Honey</album>
+        </entry>
+        <entry>
+            <artist>The Bangles</artist>
+            <album> Greatest Hits</album>
+        </entry>
+        <entry>
+            <artist>Bananagun</artist>
+            <album> The True Story of Bananagun</album>
+        </entry>
+        <entry>
+            <artist>Bass Drum of Death</artist>
+            <album> Bass Drum of Death</album>
+        </entry>
+        <entry>
+            <artist>Bauhaus</artist>
+            <album> In The Flat Field</album>
+        </entry>
+        <entry>
+            <artist>Bauhaus</artist>
+            <album> Mask</album>
+        </entry>
+        <entry>
+            <artist>Bauhaus</artist>
+            <album> The Sky’s Gone Out</album>
+        </entry>
+        <entry>
+            <artist>The Beach Boys</artist>
+            <album> Pet Sounds</album>
+        </entry>
+        <entry>
+            <artist>The Beach Boys</artist>
+            <album> Sunflower</album>
+        </entry>
+        <entry>
+            <artist>The Beach Boys</artist>
+            <album> Surf’s Up</album>
+        </entry>
+        <entry>
+            <artist>The Beaches</artist>
+            <album> Blame My Ex</album>
+        </entry>
+        <entry>
+            <artist>Beans</artist>
+            <album> Babble</album>
+        </entry>
+        <entry>
+            <artist>Beans</artist>
+            <album> All Together Now</album>
+        </entry>
+        <entry>
+            <artist>Beans</artist>
+            <album> Boots N’ Cats</album>
+        </entry>
+        <entry>
+            <artist>Beastie Boys</artist>
+            <album> Licensed to Ill</album>
+        </entry>
+        <entry>
+            <artist>The Berries</artist>
+            <album> Berryland</album>
+        </entry>
+        <entry>
+            <artist>Big Thief</artist>
+            <album> Masterpiece</album>
+        </entry>
+        <entry>
+            <artist>Big Thief</artist>
+            <album> Two Hands</album>
+        </entry>
+        <entry>
+            <artist>Big Thief</artist>
+            <album> Dragon New Warm Mountain I Believe In You</album>
+        </entry>
+        <entry>
+            <artist>Bill Gagliardi</artist>
+            <album> Villain</album>
+        </entry>
+        <entry>
+            <artist>Billie Eilish</artist>
+            <album> HIT ME HARD AND SOFT</album>
+        </entry>
+        <entry>
+            <artist>Billy Idol</artist>
+            <album> Rebel Yell</album>
+        </entry>
+        <entry>
+            <artist>The Birthday Party</artist>
+            <album> Hee Haw</album>
+        </entry>
+        <entry>
+            <artist>Björk</artist>
+            <album> Debut</album>
+        </entry>
+        <entry>
+            <artist>Björk</artist>
+            <album> Post</album>
+        </entry>
+        <entry>
+            <artist>Björk</artist>
+            <album> Homogenic</album>
+        </entry>
+        <entry>
+            <artist>The Black Angels</artist>
+            <album> Passover</album>
+        </entry>
+        <entry>
+            <artist>The Black Angels</artist>
+            <album> Directions to See a Ghost</album>
+        </entry>
+        <entry>
+            <artist>The Black Angels</artist>
+            <album> Death Song</album>
+        </entry>
+        <entry>
+            <artist>The Black Angels</artist>
+            <album> Wilderness of Mirrors</album>
+        </entry>
+        <entry>
+            <artist>Black Country, New Road</artist>
+            <album> Ants from Up There</album>
+        </entry>
+        <entry>
+            <artist>Black Dresses</artist>
+            <album> WASTEISOLATION</album>
+        </entry>
+        <entry>
+            <artist>Black Dresses</artist>
+            <album> PEACEFUL AS HELL</album>
+        </entry>
+        <entry>
+            <artist>Black Dresses</artist>
+            <album> FORGET YOUR OWN FACE</album>
+        </entry>
+        <entry>
+            <artist>Black Flag</artist>
+            <album> Nervous Breakdown</album>
+        </entry>
+        <entry>
+            <artist>black midi</artist>
+            <album> Schlagenheim</album>
+        </entry>
+        <entry>
+            <artist>black midi</artist>
+            <album> Cavalcade </album>
+        </entry>
+        <entry>
+            <artist>black midi</artist>
+            <album> Hellfire</album>
+        </entry>
+        <entry>
+            <artist>Black Sabbath</artist>
+            <album> Paranoid</album>
+        </entry>
+        <entry>
+            <artist>Black Sabbath</artist>
+            <album> Master of Reality</album>
+        </entry>
+        <entry>
+            <artist>Black Sabbath</artist>
+            <album> Vol. 4</album>
+        </entry>
+        <entry>
+            <artist>Black Sabbath</artist>
+            <album> Sabbath Bloody Sabbath</album>
+        </entry>
+        <entry>
+            <artist>Blondie</artist>
+            <album> Blondie</album>
+        </entry>
+        <entry>
+            <artist>Blondie</artist>
+            <album> The Best of Blondie</album>
+        </entry>
+        <entry>
+            <artist>Blood Lord</artist>
+            <album> Unwelcome Guests</album>
+        </entry>
+        <entry>
+            <artist>Blue Oyster Cult</artist>
+            <album> Fire of Unknown Origin</album>
+        </entry>
+        <entry>
+            <artist>bôa</artist>
+            <album> Twilight</album>
+        </entry>
+        <entry>
+            <artist>Boards of Canada</artist>
+            <album> Twoism</album>
+        </entry>
+        <entry>
+            <artist>Boards of Canada</artist>
+            <album> Music Has The Right To Children</album>
+        </entry>
+        <entry>
+            <artist>Boards of Canada</artist>
+            <album> Geogaddi</album>
+        </entry>
+        <entry>
+            <artist>Boards of Canada</artist>
+            <album> The Campfire Headphase</album>
+        </entry>
+        <entry>
+            <artist>THE BOBBY LEES</artist>
+            <album> Bellevue</album>
+        </entry>
+        <entry>
+            <artist>Bones and Jones</artist>
+            <album> Bees</album>
+        </entry>
+        <entry>
+            <artist>boygenius</artist>
+            <album> boygenius</album>
+        </entry>
+        <entry>
+            <artist>boygenius</artist>
+            <album> the record</album>
+        </entry>
+        <entry>
+            <artist>Boy Harsher</artist>
+            <album> Yr Body is Nothing</album>
+        </entry>
+        <entry>
+            <artist>Boy Harsher</artist>
+            <album> Careful</album>
+        </entry>
+        <entry>
+            <artist>The Breeders</artist>
+            <album> Pod</album>
+        </entry>
+        <entry>
+            <artist>The Breeders</artist>
+            <album> Last Splash</album>
+        </entry>
+        <entry>
+            <artist>Brian Eno</artist>
+            <album> Before and After Science</album>
+        </entry>
+        <entry>
+            <entry>
+                <artist>Brian Eno</artist>
+                <album> Music for Films</album>
+            </entry>
+        </entry>
+        <entry>
+            <artist>Brian Eno</artist>
+            <album> Ambient 1: Music for Airports</album>
+        </entry>
+        <entry>
+            <artist>Brian Eno</artist>
+            <album> Ambient 4: On Land</album>
+        </entry>
+        <entry>
+            <artist>Brian Eno</artist>
+            <album> Apollo</album>
+        </entry>
+        <entry>
+            <artist>Brian Eno</artist>
+            <album> Small Craft on a Milk Sea</album>
+        </entry>
+        <entry>
+            <artist>Brain Eno and David Byrne</artist>
+            <album> My Life in the Bush of Ghosts</album>
+        </entry>
+        <artist>Brian Eno and David Byrne</artist>
+        <album> Everything That Happens Will Happen Today</album>
+        <entry>
+            <artist>Brian Eno and Roger Eno</artist>
+            <album> Mixing Colours</album>
+        </entry>
+        <artist>The Brian Jonestown Massacre</artist>
+        <album> Their Satanic Majesties’ Second Request</album>
+        <entry>
+            <artist>BUCK-TICK</artist>
+            <album> Darker Than Darkness -Style 93-</album>
+        </entry>
+        <entry>
+            <artist>The Buggles</artist>
+            <album> The Age of Plastic</album>
+        </entry>
+        <entry>
+            <entry>
+                <artist>Bullant</artist>
+                <album> Tyson, Crying</album>
+            </entry>
+        </entry>
+        <entry>
+            <artist>Bullant</artist>
+            <album> German People</album>
+        </entry>
+        <entry>
+            <artist>Bullant</artist>
+            <album> Late Life Circ</album>
+        </entry>
+        <entry>
+            <artist>Bummers</artist>
+            <album> Buttermilk Mountain</album>
+        </entry>
+        <entry>
+            <artist>Buried Feather</artist>
+            <album> Mind of the Swarm</album>
+        </entry>
+        <entry>
+            <artist>Camel</artist>
+            <album> The Snow Goose</album>
+        </entry>
+        <entry>
+            <artist>CAN</artist>
+            <album> Tago Mago</album>
+        </entry>
+        <entry>
+            <artist>Candy Claws</artist>
+            <album> Ceres and Calypso in the Deep Time</album>
+        </entry>
+        <entry>
+            <artist>Caravan Palace</artist>
+            <album> Robot Face</album>
+        </entry>
+        <entry>
+            <artist>Caravan Palace</artist>
+            <album> Chronologic</album>
+        </entry>
+        <entry>
+            <artist>The Cardigans</artist>
+            <album> Life </album>
+        </entry>
+        <entry>
+            <artist>The Cardigans</artist>
+            <album> First Band on the Moon</album>
+        </entry>
+        <artist>Caro Emerald</artist>
+        <album> Deleted Scenes From the Cutting Room Floor [Acoustic Sessions]</album>
+        <entry>
+            <artist>Caro Emerald</artist>
+            <album> Emerald Island EP</album>
+        </entry>
+        <entry>
+            <artist>The Cars</artist>
+            <album> The Cars</album>
+        </entry>
+        <entry>
+            <artist>The Cars</artist>
+            <album> Shake it Up</album>
+        </entry>
+        <entry>
+            <artist>Casiopea</artist>
+            <album> Mint Jams</album>
+        </entry>
+        <entry>
+            <artist>Catavento</artist>
+            <album> Lost Youth Against the Rush</album>
+        </entry>
+        <entry>
+            <artist>Catavento</artist>
+            <album> Ansiedade na Cidade</album>
+        </entry>
+        <entry>
+            <artist>CAVS</artist>
+            <album> CAVS</album>
+        </entry>
+        <entry>
+            <artist>Chainsaw For Birthday</artist>
+            <album> Living With Ghosts</album>
+        </entry>
+        <entry>
+            <artist>Chappell Roan</artist>
+            <album> The Rise and Fall of a Midwest Princess </album>
+        </entry>
+        <entry>
+            <artist>Charli xcx</artist>
+            <album> Number 1 Angel</album>
+        </entry>
+        <entry>
+            <artist>Charli xcx</artist>
+            <album> how i’m feeling now</album>
+        </entry>
+        <entry>
+            <artist>Charli xcx</artist>
+            <album> brat</album>
+        </entry>
+        <artist>Charli xcx</artist>
+        <album> brat and it’s completely different but also still brat</album>
+        <entry>
+            <artist>Chat Pile</artist>
+            <album> This Dungeon Earth</album>
+        </entry>
+        <entry>
+            <artist>Chat Pile</artist>
+            <album> Remove Your Skin Please</album>
+        </entry>
+        <entry>
+            <artist>Chat Pile</artist>
+            <album> God's Country</album>
+        </entry>
+        <entry>
+            <artist>Chat Pile</artist>
+            <album> Cool World</album>
+        </entry>
+        <entry>
+            <artist>The Chats</artist>
+            <album> High Risk Behaviour</album>
+        </entry>
+        <entry>
+            <artist>The Chats</artist>
+            <album> Get Fucked</album>
+        </entry>
+        <entry>
+            <artist>Chelsea Wolfe</artist>
+            <album> Apokalypsis</album>
+        </entry>
+        <entry>
+            <artist>Chelsea Wolfe</artist>
+            <album> Abyss</album>
+        </entry>
+        <entry>
+            <artist>The Chemical Brothers</artist>
+            <album> Surrender</album>
+        </entry>
+        <entry>
+            <artist>Childbirth</artist>
+            <album> It's a Girl!</album>
+        </entry>
+        <entry>
+            <artist>Children of Nova</artist>
+            <album> The Complexity of Light</album>
+        </entry>
+        <entry>
+            <artist>Chip Hazard</artist>
+            <album> Chip Hazard</album>
+        </entry>
+        <entry>
+            <artist>Chip Hazard</artist>
+            <album> Drone</album>
+        </entry>
+        <entry>
+            <artist>Chuck Salamone</artist>
+            <album> Absent Moon, A Hylics Song Cycle</album>
+        </entry>
+        <entry>
+            <artist>Chuck Salamone and Mason Lindroth</artist>
+            <album> Moonage Lobotomy</album>
+        </entry>
+        <entry>
+            <artist>The Church</artist>
+            <album> Heyday</album>
+        </entry>
+        <entry>
+            <artist>The Church</artist>
+            <album> Starfish</album>
+        </entry>
+        <entry>
+            <artist>Church of the Cosmic Skull</artist>
+            <album> Is Satan Real?</album>
+        </entry>
+        <entry>
+            <artist>Church of the Cosmic Skull</artist>
+            <album> Everybody's Going to Die</album>
+        </entry>
+        <entry>
+            <artist>Cibo Matto</artist>
+            <album> Stereotype A</album>
+        </entry>
+        <entry>
+            <artist>Cinnamon Tapes</artist>
+            <album> Nabia</album>
+        </entry>
+        <entry>
+            <artist>The Claypool Lennon Delirium</artist>
+            <album> Monolith of Phobos</album>
+        </entry>
+        <entry>
+            <artist>The Claypool Lennon Delirium</artist>
+            <album> Lime and Limpid Green</album>
+        </entry>
+        <entry>
+            <artist>The Claypool Lennon Delirium</artist>
+            <album> South of Reality</album>
+        </entry>
+        <entry>
+            <artist>Clown Core</artist>
+            <album> Toilet</album>
+        </entry>
+        <entry>
+            <artist>Clown Core</artist>
+            <album> Van</album>
+        </entry>
+        <entry>
+            <artist>Cocteau Twins</artist>
+            <album> The Pink Opaque</album>
+        </entry>
+        <entry>
+            <artist>Cocteau Twins</artist>
+            <album> Heaven or Las Vegas </album>
+        </entry>
+        <entry>
+            <artist>Coldplay</artist>
+            <album> Viva La Vida or Death and All His Friends</album>
+        </entry>
+        <entry>
+            <artist>The Comet is Coming</artist>
+            <album> Trust in the Lifeforce Of The Deep Mystery</album>
+        </entry>
+        <entry>
+            <artist>The Comet is Coming</artist>
+            <album> Hyper-Dimensional Expansion Beam</album>
+        </entry>
+        <entry>
+            <artist>Concrete Blonde</artist>
+            <album> Bloodletting</album>
+        </entry>
+        <entry>
+            <artist>Concrete Blonde</artist>
+            <album> Mexican Moon</album>
+        </entry>
+        <entry>
+            <artist>Cool Ghouls</artist>
+            <album> A Swirling Fire Burning Through the Rye</album>
+        </entry>
+        <entry>
+            <artist>Cosmic Mud</artist>
+            <album> Plastic Dream Puddles</album>
+        </entry>
+        <entry>
+            <artist>The Cranberries</artist>
+            <album> Everybody Else Is Doing It, So Why Can't We?</album>
+        </entry>
+        <entry>
+            <artist>The Cranberries</artist>
+            <album> No Need to Argue</album>
+        </entry>
+        <entry>
+            <artist>The Cranberries</artist>
+            <album> To the Faithful Departed </album>
+        </entry>
+        <entry>
+            <artist>The Cranberries</artist>
+            <album> Bury the Hatchet</album>
+        </entry>
+        <entry>
+            <artist>Cranes</artist>
+            <album> Forever</album>
+        </entry>
+        <entry>
+            <artist>Crumb</artist>
+            <album> Crumb</album>
+        </entry>
+        <entry>
+            <artist>Crumb</artist>
+            <album> Locket</album>
+        </entry>
+        <entry>
+            <artist>Crumb</artist>
+            <album> Jinx</album>
+        </entry>
+        <entry>
+            <artist>Crumb</artist>
+            <album> Ice Melt</album>
+        </entry>
+        <entry>
+            <artist>The Cure</artist>
+            <album> Three Imaginary Boys</album>
+        </entry>
+        <entry>
+            <artist>The Cure</artist>
+            <album> Pornography</album>
+        </entry>
+        <entry>
+            <artist>The Cure</artist>
+            <album> Disintegration</album>
+        </entry>
+        <entry>
+            <artist>The Cure</artist>
+            <album> Wish</album>
+        </entry>
+        <entry>
+            <artist>Curve</artist>
+            <album> Doppelgänger</album>
+        </entry>
+        <entry>
+            <artist>Curve</artist>
+            <album> Cuckoo</album>
+        </entry>
+        <entry>
+            <artist>Curve</artist>
+            <album> Gift</album>
+        </entry>
+        <entry>
+            <artist>Daikaiju</artist>
+            <album> Daikaiju</album>
+        </entry>
+        <entry>
+            <artist>Daikaiju</artist>
+            <album> Phase 2</album>
+        </entry>
+        <entry>
+            <artist>Damaged Bug</artist>
+            <album> Cold Hot Plumbs</album>
+        </entry>
+        <entry>
+            <artist>Damaged Bug</artist>
+            <album> Bunker Funk</album>
+        </entry>
+        <entry>
+            <artist>The Damned</artist>
+            <album> Phantasmagoria</album>
+        </entry>
+        <entry>
+            <artist>Danny Brown</artist>
+            <album> Atrocity Exhibition</album>
+        </entry>
+        <entry>
+            <artist>Danny Elfman</artist>
+            <album> So-Lo</album>
+        </entry>
+        <entry>
+            <artist>Danny Elfman</artist>
+            <album> Big Mess</album>
+        </entry>
+        <entry>
+            <artist>Daughters</artist>
+            <album> Hell Songs</album>
+        </entry>
+        <entry>
+            <artist>Daughters</artist>
+            <album> You Won’t Get What You Want</album>
+        </entry>
+        <entry>
+            <artist>Dave Gahan</artist>
+            <album> Paper Monsters</album>
+        </entry>
+        <entry>
+            <artist>Dave Gahan</artist>
+            <album> Hourglass</album>
+        </entry>
+        <entry>
+            <artist>Dave Gahan and Soulsavers</artist>
+            <album> Angels and Ghosts</album>
+        </entry>
+        <entry>
+            <artist>Dave Gahan and Soulsavers</artist>
+            <album> Imposter</album>
+        </entry>
+        <entry>
+            <artist>David Bowie</artist>
+            <album> Space Oddity</album>
+        </entry>
+        <entry>
+            <artist>David Bowie</artist>
+            <album> Hunky Dory</album>
+        </entry>
+        <artist>David Bowie</artist>
+        <album> The Rise and Fall of Ziggy Stardust and the Spiders from Mars</album>
+        <entry>
+            <artist>David Bowie</artist>
+            <album> Scary Monsters (and Super Creeps)</album>
+        </entry>
+        <entry>
+            <artist>David Bowie</artist>
+            <album> Station to Station</album>
+        </entry>
+        <entry>
+            <artist>David Bowie</artist>
+            <album> 1. Outside</album>
+        </entry>
+        <entry>
+            <artist>David Bowie</artist>
+            <album> Earthling</album>
+        </entry>
+        <entry>
+            <artist>David Bowie</artist>
+            <album> Blackstar</album>
+        </entry>
+        <entry>
+            <artist>David Byrne</artist>
+            <album> The Catherine Wheel</album>
+        </entry>
+        <entry>
+            <artist>David Byrne</artist>
+            <album> Look into the Eyeball</album>
+        </entry>
+        <entry>
+            <artist>David Byrne</artist>
+            <album> American Utopia on Broadway</album>
+        </entry>
+        <entry>
+            <artist>David Byrne and St. Vincent</artist>
+            <album> Love This Giant</album>
+        </entry>
+        <entry>
+            <artist>David Hale</artist>
+            <album> Hale Damage</album>
+        </entry>
+        <entry>
+            <artist>David Hale</artist>
+            <album> Something Peculiar</album>
+        </entry>
+        <entry>
+            <artist>David Hale</artist>
+            <album> Business as Usual</album>
+        </entry>
+        <entry>
+            <artist>Davy’s Grey</artist>
+            <album> No Cigar</album>
+        </entry>
+        <entry>
+            <artist>Dead Can Dance</artist>
+            <album> Dead Can Dance</album>
+        </entry>
+        <entry>
+            <artist>Dead Can Dance</artist>
+            <album> Spleen and Ideal</album>
+        </entry>
+        <entry>
+            <artist>Dead Can Dance</artist>
+            <album> Within the Realm of a Dying Sun</album>
+        </entry>
+        <entry>
+            <artist>Dead Can Dance</artist>
+            <album> The Serpent’s Egg</album>
+        </entry>
+        <entry>
+            <artist>Dead Can Dance</artist>
+            <album> Aion</album>
+        </entry>
+        <entry>
+            <artist>The Dead Pirates</artist>
+            <album> Highmare</album>
+        </entry>
+        <entry>
+            <artist>Deafheaven</artist>
+            <album> Sunbather</album>
+        </entry>
+        <entry>
+            <artist>Death</artist>
+            <album> …For The Whole World To See</album>
+        </entry>
+        <entry>
+            <artist>Death Grips</artist>
+            <album> The Money Store</album>
+        </entry>
+        <entry>
+            <artist>Death Grips</artist>
+            <album> Year of the Snitch</album>
+        </entry>
+        <entry>
+            <artist>Death Valley Girls</artist>
+            <album> Darkness Rains</album>
+        </entry>
+        <entry>
+            <artist>Deerhunter</artist>
+            <album> Halcyon Digest</album>
+        </entry>
+        <entry>
+            <artist>Deftones</artist>
+            <album> Around the Fur</album>
+        </entry>
+        <entry>
+            <artist>Deftones</artist>
+            <album> White Pony</album>
+        </entry>
+        <entry>
+            <artist>Deftones</artist>
+            <album> Deftones</album>
+        </entry>
+        <entry>
+            <artist>Debby Friday</artist>
+            <album> DEATH DRIVE</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Speak and Spell</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> A Broken Frame</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Construction Time Again</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Some Great Reward</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Black Celebration</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Music for the Masses</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> 101</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Violator</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Songs of Faith and Devotion</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Songs of Faith and Devotion: Live</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Ultra</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Exciter</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Playing the Angel</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Touring the Angel</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Sounds of the Universe</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Delta Machine</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Live in Berlin</album>
+        </entry>
+        <entry>
+            <artist>Depeche Mode</artist>
+            <album> Memento Mori</album>
+        </entry>
+        <entry>
+            <artist>Descendents</artist>
+            <album> Everything Sucks</album>
+        </entry>
+        <entry>
+            <artist>Destructo Disk</artist>
+            <album> Punk Rock For Kids Who Can’t Skate</album>
+        </entry>
+        <entry>
+            <artist>Devil’s Witches</artist>
+            <album> Velvet Magic</album>
+        </entry>
+        <entry>
+            <artist>Devo</artist>
+            <album> Q: Are We Not Men? A: We Are Devo!</album>
+        </entry>
+        <entry>
+            <artist>Devo</artist>
+            <album> Duty Now for the Future</album>
+        </entry>
+        <entry>
+            <artist>Devo</artist>
+            <album> Freedom of Choice</album>
+        </entry>
+        <entry>
+            <artist>Django Django</artist>
+            <album> Glowing in the Dark</album>
+        </entry>
+        <entry>
+            <artist>Djo</artist>
+            <album> DECIDE</album>
+        </entry>
+        <entry>
+            <artist>DJ Shadow</artist>
+            <album> Endtroducing…..</album>
+        </entry>
+        <entry>
+            <artist>Doechii</artist>
+            <album> Alligator Bites Never Heal</album>
+        </entry>
+        <entry>
+            <artist>Donovan</artist>
+            <album> Sunshine Superman</album>
+        </entry>
+        <entry>
+            <artist>Don Mock</artist>
+            <album> Mock One</album>
+        </entry>
+        <entry>
+            <artist>Dungen</artist>
+            <album> Stadsvandringar</album>
+        </entry>
+        <entry>
+            <artist>Dungen</artist>
+            <album> Ta det lugnt</album>
+        </entry>
+        <entry>
+            <artist>Dungen</artist>
+            <album> 4</album>
+        </entry>
+        <entry>
+            <artist>Dungen</artist>
+            <album> Häxan</album>
+        </entry>
+        <entry>
+            <artist>Dungen</artist>
+            <album> En Är För Mycket och Tusen Aldrig Nog</album>
+        </entry>
+        <entry>
+            <artist>Duran Duran</artist>
+            <album> Duran Duran</album>
+        </entry>
+        <entry>
+            <artist>Duran Duran</artist>
+            <album> Rio</album>
+        </entry>
+        <entry>
+            <artist>Duran Duran</artist>
+            <album> Seven and the Ragged Tiger</album>
+        </entry>
+        <entry>
+            <artist>Earth</artist>
+            <album> The Bees Made Honey in the Lion’s Skull</album>
+        </entry>
+        <entry>
+            <artist>Echo and The Bunnymen</artist>
+            <album> Heaven Up Here</album>
+        </entry>
+        <entry>
+            <artist>Eddy Manson</artist>
+            <album> Percussion Sounds and the Harmonica</album>
+        </entry>
+        <entry>
+            <artist>EGGY</artist>
+            <album> With Gusto</album>
+        </entry>
+        <entry>
+            <artist>Einstürzende Neubauten</artist>
+            <album> Kollaps</album>
+        </entry>
+        <entry>
+            <artist>Einstürzende Neubauten</artist>
+            <album> Halber Mensch</album>
+        </entry>
+        <entry>
+            <artist>Einstürzende Neubauten</artist>
+            <album> Haus der Lüge</album>
+        </entry>
+        <entry>
+            <artist>Einstürzende Neubauten</artist>
+            <album> Tabula Rasa</album>
+        </entry>
+        <entry>
+            <artist>Einstürzende Neubauten</artist>
+            <album> Ende Neu</album>
+        </entry>
+        <entry>
+            <artist>Electric Citizen</artist>
+            <album> Sateen</album>
+        </entry>
+        <entry>
+            <artist>Electric Light Orchestra</artist>
+            <album> Discovery</album>
+        </entry>
+        <entry>
+            <artist>Electric Light Orchestra</artist>
+            <album> Time</album>
+        </entry>
+        <entry>
+            <artist>Electric Light Orchestra and Olivia Newton-John</artist>
+            <album> Xanadu</album>
+        </entry>
+        <entry>
+            <artist>Electric Wizard</artist>
+            <album> Dopethrone</album>
+        </entry>
+        <entry>
+            <artist>Elliott Smith</artist>
+            <album> Figure 8</album>
+        </entry>
+        <entry>
+            <artist>Elton John</artist>
+            <album> Goodbye Yellow Brick Road</album>
+        </entry>
+        <entry>
+            <artist>Emerson, Lake and Palmer</artist>
+            <album> Emerson, Lake and Palmer</album>
+        </entry>
+        <entry>
+            <artist>Emerson, Lake and Palmer</artist>
+            <album> Trilogy</album>
+        </entry>
+        <entry>
+            <artist>emochick99</artist>
+            <album> sin eater</album>
+        </entry>
+        <entry>
+            <artist>emochick99</artist>
+            <album> inepttitude</album>
+        </entry>
+        <entry>
+            <artist>Envy of None</artist>
+            <album> Envy of None</album>
+        </entry>
+        <entry>
+            <artist>Ephilexia</artist>
+            <album> Horror In Heaven</album>
+        </entry>
+        <entry>
+            <artist>Ephilexia</artist>
+            <album> Skeleton War</album>
+        </entry>
+        <entry>
+            <artist>Erkin Koray</artist>
+            <album> Best of...The Best, Vol. 1</album>
+        </entry>
+        <entry>
+            <artist>Estradasphere </artist>
+            <album> Buck Fever</album>
+        </entry>
+        <entry>
+            <artist>Ethel Cain</artist>
+            <album> Preacher’s Daughter</album>
+        </entry>
+        <entry>
+            <artist>Faith and the Muse</artist>
+            <album> Evidence of Heaven</album>
+        </entry>
+        <entry>
+            <artist>Faith No More</artist>
+            <album> Angel Dust</album>
+        </entry>
+        <entry>
+            <artist>Fantômas</artist>
+            <album> The Director’s Cut</album>
+        </entry>
+        <entry>
+            <artist>Fatboy Slim</artist>
+            <album> You’ve Come a Long Way, Baby</album>
+        </entry>
+        <entry>
+            <artist>Faye Webster</artist>
+            <album> Faye Webster</album>
+        </entry>
+        <entry>
+            <artist>Fear Factory</artist>
+            <album> Obsolete</album>
+        </entry>
+        <entry>
+            <artist>feeble little horse</artist>
+            <album> Girl with Fish</album>
+        </entry>
+        <entry>
+            <artist>Fever the Ghost</artist>
+            <album> Crab in Honey</album>
+        </entry>
+        <entry>
+            <artist>Fever the Ghost</artist>
+            <album> Zirconium Meconium</album>
+        </entry>
+        <entry>
+            <artist>Fiona Apple</artist>
+            <album> When the Pawn…</album>
+        </entry>
+        <entry>
+            <artist>Fishmans</artist>
+            <album> Kuuchuu Camp</album>
+        </entry>
+        <entry>
+            <artist>Fishmans</artist>
+            <album> Long Season</album>
+        </entry>
+        <entry>
+            <artist>Fishmans</artist>
+            <album> Uchū Nippon Setagaya</album>
+        </entry>
+        <entry>
+            <artist>Fishmans</artist>
+            <album> 98.12.28 Otokotachi No Wakare</album>
+        </entry>
+        <entry>
+            <artist>The Fixx</artist>
+            <album> Reach The Beach</album>
+        </entry>
+        <entry>
+            <artist>FKA twigs</artist>
+            <album> EUSEXUA</album>
+        </entry>
+        <entry>
+            <artist>The Flaming Lips</artist>
+            <album> Yoshimi Battles the Pink Robots</album>
+        </entry>
+        <entry>
+            <artist>Flaural</artist>
+            <album> Postponement</album>
+        </entry>
+        <entry>
+            <artist>Fleet Foxes</artist>
+            <album> Crack-Up</album>
+        </entry>
+        <entry>
+            <artist>Fleetwood Mac</artist>
+            <album> Fleetwood Mac (1975)</album>
+        </entry>
+        <entry>
+            <artist>Fleetwood Mac</artist>
+            <album> Rumours</album>
+        </entry>
+        <entry>
+            <artist>Fleetwood Mac</artist>
+            <album> Tango in the Night</album>
+        </entry>
+        <entry>
+            <artist>Florence + The Machine</artist>
+            <album> Lungs</album>
+        </entry>
+        <entry>
+            <artist>Flower Travellin’ Band</artist>
+            <album> Satori</album>
+        </entry>
+        <entry>
+            <artist>Flying Lotus</artist>
+            <album> Los Angeles</album>
+        </entry>
+        <entry>
+            <artist>Flying Lotus</artist>
+            <album> Cosmogramma</album>
+        </entry>
+        <entry>
+            <artist>Flying Lotus</artist>
+            <album> You’re Dead!</album>
+        </entry>
+        <entry>
+            <artist>Flying Lotus</artist>
+            <album> Flamagra</album>
+        </entry>
+        <entry>
+            <artist>Flying Lotus</artist>
+            <album> Spirit Box</album>
+        </entry>
+        <entry>
+            <artist>Foetus</artist>
+            <album> Nail</album>
+        </entry>
+        <entry>
+            <artist>Foo Fighters</artist>
+            <album> Wasting Light</album>
+        </entry>
+        <entry>
+            <artist>Foxygen</artist>
+            <album> We Are The 21st Century Ambassadors of Peace and Magic</album>
+        </entry>
+        <entry>
+            <artist>Funkadelic</artist>
+            <album> Maggot Brain</album>
+        </entry>
+        <entry>
+            <artist>Fuzz</artist>
+            <album> Fuzz</album>
+        </entry>
+        <entry>
+            <artist>Fuzz</artist>
+            <album> II</album>
+        </entry>
+        <entry>
+            <artist>Fuzz</artist>
+            <album> III</album>
+        </entry>
+        <entry>
+            <artist>Fuzz</artist>
+            <album> Levitation Sessions</album>
+        </entry>
+        <entry>
+            <artist>Fuzzbox</artist>
+            <album> Bostin' Steve Austin</album>
+        </entry>
+        <entry>
+            <artist>Frankie and the Witch Fingers</artist>
+            <album> Brain Telephone</album>
+        </entry>
+        <entry>
+            <artist>Frankie and the Witch Fingers</artist>
+            <album> ZAM</album>
+        </entry>
+        <artist>Frankie and the Witch Fingers</artist>
+        <album> Monsters Eating People Eating Monsters…</album>
+        <entry>
+            <artist>Frankie and the Witch Fingers</artist>
+            <album> Levitation Sessions</album>
+        </entry>
+        <entry>
+            <artist>Frankie and the Witch Fingers</artist>
+            <album> Data Doom</album>
+        </entry>
+        <entry>
+            <artist>Frank Zappa</artist>
+            <album> Apostrophe (')</album>
+        </entry>
+        <entry>
+            <artist>Frank Zappa</artist>
+            <album> Roxy and Elsewhere</album>
+        </entry>
+        <entry>
+            <artist>Frenesi</artist>
+            <album> Kyupura</album>
+        </entry>
+        <entry>
+            <artist>Fripp and Eno</artist>
+            <album> Evening Star</album>
+        </entry>
+        <entry>
+            <artist>Gabor Szabo</artist>
+            <album> Spellbinder</album>
+        </entry>
+        <entry>
+            <artist>Gabor Szabo</artist>
+            <album> Dreams</album>
+        </entry>
+        <entry>
+            <artist>Gabor Szabo</artist>
+            <album> Bacchanal</album>
+        </entry>
+        <entry>
+            <artist>Garbage</artist>
+            <album> Garbage</album>
+        </entry>
+        <entry>
+            <artist>Garcia Peoples</artist>
+            <album> Nightcap at Wits' End</album>
+        </entry>
+        <entry>
+            <artist>Gary Numan</artist>
+            <album> The Pleasure Principle</album>
+        </entry>
+        <entry>
+            <artist>Gary Numan</artist>
+            <album> Exile</album>
+        </entry>
+        <entry>
+            <artist>Geese</artist>
+            <album> 3D Country</album>
+        </entry>
+        <entry>
+            <artist>Genesis</artist>
+            <album> The Lamb Lies Down on Broadway</album>
+        </entry>
+        <entry>
+            <artist>Genesis</artist>
+            <album> A Trick of the Tail</album>
+        </entry>
+        <entry>
+            <artist>Genesis</artist>
+            <album> Wind and Wuthering</album>
+        </entry>
+        <entry>
+            <artist>Ghost</artist>
+            <album> Opus Eponymous</album>
+        </entry>
+        <entry>
+            <artist>Ghost</artist>
+            <album> Meliora</album>
+        </entry>
+        <entry>
+            <artist>Ghost</artist>
+            <album> Prequelle</album>
+        </entry>
+        <entry>
+            <artist>Ghost</artist>
+            <album> Impera</album>
+        </entry>
+        <entry>
+            <artist>The Ghost of a Sabertooth Tiger</artist>
+            <album> Midnight Sun</album>
+        </entry>
+        <entry>
+            <artist>The Ghost of a Sabertooth Tiger</artist>
+            <album> Long Gone</album>
+        </entry>
+        <entry>
+            <artist>Ghost Woman</artist>
+            <album> Ghost Woman</album>
+        </entry>
+        <entry>
+            <artist>Gilla Band</artist>
+            <album> Holding Hands With Jamie</album>
+        </entry>
+        <entry>
+            <artist>Gilla Band</artist>
+            <album> Most Normal</album>
+        </entry>
+        <entry>
+            <artist>Ginger Root</artist>
+            <album> City Slicker</album>
+        </entry>
+        <entry>
+            <artist>Goat</artist>
+            <album> World Music</album>
+        </entry>
+        <entry>
+            <artist>Goat</artist>
+            <album> Commune</album>
+        </entry>
+        <entry>
+            <artist>Goat Girl</artist>
+            <album> Goat Girl</album>
+        </entry>
+        <entry>
+            <artist>GØGGS</artist>
+            <album> GØGGS</album>
+        </entry>
+        <entry>
+            <artist>Gojira</artist>
+            <album> From Mars to Sirius</album>
+        </entry>
+        <entry>
+            <artist>Gondwanaland</artist>
+            <album> Wildlife</album>
+        </entry>
+        <entry>
+            <artist>Gorillaz</artist>
+            <album> Demon Days</album>
+        </entry>
+        <entry>
+            <artist>Gorillaz</artist>
+            <album> Plastic Beach</album>
+        </entry>
+        <entry>
+            <artist>Gorillaz</artist>
+            <album> The Now Now</album>
+        </entry>
+        <entry>
+            <artist>The Graces</artist>
+            <album> Perfect View</album>
+        </entry>
+        <entry>
+            <artist>Grave Flowers Bongo Band</artist>
+            <album> Flower Pot</album>
+        </entry>
+        <entry>
+            <artist>Grave Flowers Bongo Band</artist>
+            <album> Strength of Spring</album>
+        </entry>
+        <entry>
+            <artist>Grimes</artist>
+            <album> Geidi Primes</album>
+        </entry>
+        <entry>
+            <artist>Grimes</artist>
+            <album> Visions</album>
+        </entry>
+        <entry>
+            <artist>GRLwood</artist>
+            <album> Daddy</album>
+        </entry>
+        <entry>
+            <artist>GRLwood</artist>
+            <album> I Sold My Soul to the Devil When I Was 12</album>
+        </entry>
+        <entry>
+            <artist>GRLwood</artist>
+            <album> I Need to Get off My Phone</album>
+        </entry>
+        <entry>
+            <artist>Guided by Voices</artist>
+            <album> Bee Thousand</album>
+        </entry>
+        <entry>
+            <artist>Guided by Voices</artist>
+            <album> Alien Lanes</album>
+        </entry>
+        <entry>
+            <artist>Guided by Voices</artist>
+            <album> Strut of Kings</album>
+        </entry>
+        <entry>
+            <artist>Guilt Machine</artist>
+            <album> On This Perfect Day</album>
+        </entry>
+        <entry>
+            <artist>Gum</artist>
+            <album> The Underdog</album>
+        </entry>
+        <entry>
+            <artist>Gummibar</artist>
+            <album> I Am Your Gummy Bear</album>
+        </entry>
+        <entry>
+            <artist>Haken</artist>
+            <album> Affinity</album>
+        </entry>
+        <entry>
+            <artist>Halsey</artist>
+            <album> If I Can't Have Love I Want Power</album>
+        </entry>
+        <entry>
+            <artist>Hany Mehanna</artist>
+            <album> Music for Airplanes</album>
+        </entry>
+        <entry>
+            <artist>Happy Anarchy</artist>
+            <album> Happy Anarchy</album>
+        </entry>
+        <entry>
+            <artist>Happy Anarchy</artist>
+            <album> Reset</album>
+        </entry>
+        <entry>
+            <artist>Happy End</artist>
+            <album> Kazemachi Roman</album>
+        </entry>
+        <entry>
+            <artist>Harold Budd</artist>
+            <album> The Pavilion of Dreams</album>
+        </entry>
+        <entry>
+            <artist>Haruomi Hosono</artist>
+            <album> Hosono House</album>
+        </entry>
+        <entry>
+            <artist>Haruomi Hosono</artist>
+            <album> Pacific</album>
+        </entry>
+        <entry>
+            <artist>Haruomi Hosono</artist>
+            <album> PHILHARMONY</album>
+        </entry>
+        <entry>
+            <artist>Haruomi Hosono</artist>
+            <album> Good Sport</album>
+        </entry>
+        <entry>
+            <artist>Haruomi Hosono</artist>
+            <album> Naga</album>
+        </entry>
+        <entry>
+            <artist>Have a Nice Life</artist>
+            <album> Deathconsciousness</album>
+        </entry>
+        <entry>
+            <artist>Hawkwind</artist>
+            <album> In Search of Space</album>
+        </entry>
+        <entry>
+            <artist>Heart</artist>
+            <album> Dreamboat Annie</album>
+        </entry>
+        <entry>
+            <artist>Heart</artist>
+            <album> Little Queen</album>
+        </entry>
+        <entry>
+            <artist>Heavy Lungs</artist>
+            <album> Straight to CD</album>
+        </entry>
+        <entry>
+            <artist>Heavy Moss</artist>
+            <album> Dead Slow</album>
+        </entry>
+        <entry>
+            <artist>The Heliocentrics</artist>
+            <album> A World of Masks</album>
+        </entry>
+        <entry>
+            <artist>The Heliocentrics</artist>
+            <album> From The Deep</album>
+        </entry>
+        <entry>
+            <artist>The Heliocentrics</artist>
+            <album> The Sunshine Makers</album>
+        </entry>
+        <entry>
+            <artist>Hemlocke Springs</artist>
+            <album> going…going…GONE!</album>
+        </entry>
+        <entry>
+            <artist>Herb Ellis and Remo Palmier</artist>
+            <album> Windflower</album>
+        </entry>
+        <entry>
+            <artist>Herbie Hancock</artist>
+            <album> Head Hunters</album>
+        </entry>
+        <entry>
+            <artist>Here Lies Man</artist>
+            <album> Here Lies Man</album>
+        </entry>
+        <entry>
+            <artist>Himiko Kikuchi</artist>
+            <album> Flying Beagle</album>
+        </entry>
+        <entry>
+            <artist>Hircine</artist>
+            <album> Luna and The Light</album>
+        </entry>
+        <entry>
+            <artist>Hitomi Moriwaki</artist>
+            <album> Subtropic Cosmos</album>
+        </entry>
+        <entry>
+            <artist>Hollow Ship</artist>
+            <album> Future Remains</album>
+        </entry>
+        <entry>
+            <artist>The Holophonics</artist>
+            <album> Banjo Ska-Zooie</album>
+        </entry>
+        <entry>
+            <artist>The Holydrug Couple</artist>
+            <album> Moonlust</album>
+        </entry>
+        <entry>
+            <artist>Holy Wave</artist>
+            <album> RELAX</album>
+        </entry>
+        <entry>
+            <artist>Honeyglaze</artist>
+            <album> Real Deal</album>
+        </entry>
+        <entry>
+            <artist>The Hoosiers</artist>
+            <album> The Trick to Life</album>
+        </entry>
+        <entry>
+            <artist>Hooveriii</artist>
+            <album> Hooveriii</album>
+        </entry>
+        <entry>
+            <artist>Hooveriii</artist>
+            <album> Water for the Frogs</album>
+        </entry>
+        <entry>
+            <artist>Hooveriii</artist>
+            <album> A Round of Applause</album>
+        </entry>
+        <entry>
+            <artist>Hooveriii</artist>
+            <album> Pointe</album>
+        </entry>
+        <entry>
+            <artist>Horsey</artist>
+            <album> Debonair </album>
+        </entry>
+        <entry>
+            <artist>The Human League</artist>
+            <album> Dare!</album>
+        </entry>
+        <entry>
+            <artist>Humming Urban Stereo</artist>
+            <album> Purple Drop</album>
+        </entry>
+        <entry>
+            <artist>IDLES</artist>
+            <album> Welcome</album>
+        </entry>
+        <entry>
+            <artist>IDLES</artist>
+            <album> Brutalism</album>
+        </entry>
+        <entry>
+            <artist>IDLES</artist>
+            <album> Joy as an Act of Resistance.</album>
+        </entry>
+        <entry>
+            <artist>IDLES</artist>
+            <album> Ultra Mono</album>
+        </entry>
+        <entry>
+            <artist>Ima Robot</artist>
+            <album> Ima Robot</album>
+        </entry>
+        <entry>
+            <artist>INXS</artist>
+            <album> Kick</album>
+        </entry>
+        <entry>
+            <artist>Jacco Gardner</artist>
+            <album> Cabinet of Curiosities</album>
+        </entry>
+        <entry>
+            <artist>Jack Harlon and The Dead Crows</artist>
+            <album> Hymns</album>
+        </entry>
+        <entry>
+            <artist>Jack Harlon and The Dead Crows</artist>
+            <album> The Magnetic Ridge</album>
+        </entry>
+        <entry>
+            <artist>Jack Harlon and The Dead Crows</artist>
+            <album> Hail To The Underground</album>
+        </entry>
+        <entry>
+            <artist>Jack Stauber</artist>
+            <album> Pop Food</album>
+        </entry>
+        <entry>
+            <artist>Jack Stauber</artist>
+            <album> HiLo</album>
+        </entry>
+        <entry>
+            <artist>Jack White</artist>
+            <album> no name</album>
+        </entry>
+        <entry>
+            <artist>Japan</artist>
+            <album> Adolescent Sex</album>
+        </entry>
+        <entry>
+            <artist>Japan</artist>
+            <album> Quiet Life</album>
+        </entry>
+        <entry>
+            <artist>Japan</artist>
+            <album> Gentlemen Take Polaroids</album>
+        </entry>
+        <entry>
+            <artist>Jay Reatard</artist>
+            <album> Blood Visions</album>
+        </entry>
+        <entry>
+            <artist>J Dilla</artist>
+            <album> Donuts</album>
+        </entry>
+        <entry>
+            <artist>Jeff Buckley</artist>
+            <album> Grace</album>
+        </entry>
+        <entry>
+            <artist>Jenny Hval</artist>
+            <album> Blood Bitch</album>
+        </entry>
+        <entry>
+            <artist>Jethro Tull</artist>
+            <album> Aqualung</album>
+        </entry>
+        <entry>
+            <artist>Jethro Tull</artist>
+            <album> Minstrel in the Gallery</album>
+        </entry>
+        <entry>
+            <artist>Jethro Tull</artist>
+            <album> The Broadsword and the Beast</album>
+        </entry>
+        <entry>
+            <artist>The Jimi Hendrix Experience</artist>
+            <album> Are You Experienced</album>
+        </entry>
+        <entry>
+            <artist>Jimsaku</artist>
+            <album> DISPENSATION</album>
+        </entry>
+        <entry>
+            <artist>Joan Baez</artist>
+            <album> Joan Baez</album>
+        </entry>
+        <entry>
+            <artist>Joan Baez</artist>
+            <album> Diamonds and Rust</album>
+        </entry>
+        <entry>
+            <artist>Joey Valence and Brae</artist>
+            <album> NO HANDS</album>
+        </entry>
+        <entry>
+            <artist>John Coltraine</artist>
+            <album> A Love Supreme</album>
+        </entry>
+        <artist>John Dwyer, Nick Murray, Brad Caulkins, Tom Dolas and Greg Coates</artist>
+        <album> Witch Egg</album>
+        <artist>John Dwyer, Ryan Sawyer, Greg Coates, Wilder Zoby and Andres Renteria</artist>
+        <album> Gong Splat</album>
+        <artist>John Dwyer, Ted Byrnes, Brad Caulkins, Greg Coates and Tom Dolas</artist>
+        <album> Endless Garbage</album>
+        <entry>
+            <artist>Jon Anderson</artist>
+            <album> Olias of Sunhillow</album>
+        </entry>
+        <entry>
+            <artist>Joy Division</artist>
+            <album> Unknown Pleasures</album>
+        </entry>
+        <entry>
+            <artist>Junip</artist>
+            <album> Fields</album>
+        </entry>
+        <entry>
+            <artist>Kaleidoscope</artist>
+            <album> Tangerine Dream</album>
+        </entry>
+        <entry>
+            <artist>Kate Bush</artist>
+            <album> Lionheart</album>
+        </entry>
+        <entry>
+            <artist>Kate Bush</artist>
+            <album> Never For Ever</album>
+        </entry>
+        <entry>
+            <artist>Kate Bush</artist>
+            <album> The Dreaming</album>
+        </entry>
+        <entry>
+            <artist>Kate Bush</artist>
+            <album> Hounds of Love</album>
+        </entry>
+        <entry>
+            <artist>Kazuhiko Kato</artist>
+            <album> L’Opera Fragile</album>
+        </entry>
+        <entry>
+            <artist>k.d. lang</artist>
+            <album> All You Can Eat</album>
+        </entry>
+        <entry>
+            <artist>Kendrick Lamar</artist>
+            <album> To Pimp A Butterfly</album>
+        </entry>
+        <entry>
+            <artist>Kendrick Lamar</artist>
+            <album> GNX</album>
+        </entry>
+        <entry>
+            <artist>Khruangbin</artist>
+            <album> The Universe Smiles Upon You</album>
+        </entry>
+        <entry>
+            <artist>Khruangbin</artist>
+            <album> Con Todo el Mundo</album>
+        </entry>
+        <entry>
+            <artist>Khruangbin</artist>
+            <album> Mordechai</album>
+        </entry>
+        <entry>
+            <artist>Kikagaku Moyo</artist>
+            <album> Mammatus Clouds</album>
+        </entry>
+        <entry>
+            <artist>Kikagaku Moyo</artist>
+            <album> Forest of Lost Children</album>
+        </entry>
+        <entry>
+            <artist>Kikagaku Moyo</artist>
+            <album> House in the Tall Grass</album>
+        </entry>
+        <entry>
+            <artist>Kikagaku Moyo</artist>
+            <album> Masana Temples</album>
+        </entry>
+        <entry>
+            <artist>Kikagaku Moyo</artist>
+            <album> Kumoyo Island</album>
+        </entry>
+        <entry>
+            <artist>Killing Joke</artist>
+            <album> Night Time</album>
+        </entry>
+        <entry>
+            <artist>Kim Jung Mi</artist>
+            <album> Now</album>
+        </entry>
+        <entry>
+            <artist>King Crimson</artist>
+            <album> In The Court of the Crimson King</album>
+        </entry>
+        <entry>
+            <artist>King Crimson</artist>
+            <album> In The Wake of Poseidon</album>
+        </entry>
+        <entry>
+            <artist>King Crimson</artist>
+            <album> Larks' Tongues in Aspic</album>
+        </entry>
+        <entry>
+            <artist>King Crimson</artist>
+            <album> Starless and Bible Black</album>
+        </entry>
+        <entry>
+            <artist>King Crimson</artist>
+            <album> Red</album>
+        </entry>
+        <entry>
+            <artist>King Crimson</artist>
+            <album> Discipline</album>
+        </entry>
+        <entry>
+            <artist>King Crimson</artist>
+            <album> Beat</album>
+        </entry>
+        <entry>
+            <artist>King Crimson</artist>
+            <album> Three of a Perfect Pair</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Willoughby’s Beach</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> 12 Bar Bruise</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Eyes Like the Sky</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Float Along - Fill Your Lungs</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Oddments</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> I’m In Your Mind Fuzz</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Live at Levitation '14</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Quarters!</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Paper Mache Dream Balloon</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Nonagon Infinity</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Live at Levitation '16</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Live in San Francisco '16</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Flying Microtonal Banana</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Murder of the Universe</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Sketches of Brunswick East</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Polygondwanaland</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Gumboot Soup</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Fishing For Fishies</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Infest the Rats’ Nest</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Live in Asheville '19</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Live in London '19</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Chunky Shrapnel</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> K.G.</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Teenage Gizzard</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> L.W.</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Butterfly 3000</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Live in Brisbane '21</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Made in Timeland</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Omnium Gatherum</album>
+        </entry>
+        <artist>King Gizzard and The Lizard Wizard</artist>
+        <album> Demos Vol. 3: Music to Eat Pond Scum To</album>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Live at Bonnaroo '22</album>
+        </entry>
+        <artist>King Gizzard and The Lizard Wizard</artist>
+        <album> Ice, Death, Planets, Lungs, Mushrooms, and Lava</album>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Laminated Denim </album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Changes</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Live at Red Rocks '22</album>
+        </entry>
+        <artist>King Gizzard and The Lizard Wizard</artist>
+        <album> PetroDragonic Apocalypse; or, Dawn of Eternal Night</album>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> The Silver Cord</album>
+        </entry>
+        <entry>
+            <artist>King Gizzard and The Lizard Wizard</artist>
+            <album> Flight b741</album>
+        </entry>
+        <artist>King Gizzard and The Lizard Wizard</artist>
+        <album> Live at The Aretha Franklin Amphitheatre, Detroit, MI</album>
+        <entry>
+            <artist>King Woman</artist>
+            <album> Celestial Blues</album>
+        </entry>
+        <entry>
+            <artist>Kinoko Teikoku</artist>
+            <album> eureka</album>
+        </entry>
+        <entry>
+            <artist>Klaatu</artist>
+            <album> Hope</album>
+        </entry>
+        <entry>
+            <artist>Kraftwerk</artist>
+            <album> Autobahn</album>
+        </entry>
+        <entry>
+            <artist>Kraftwerk</artist>
+            <album> Radio-Activity</album>
+        </entry>
+        <entry>
+            <artist>Kraftwerk</artist>
+            <album> Trans-Europe Express</album>
+        </entry>
+        <entry>
+            <artist>Kraftwerk</artist>
+            <album> The Man-Machine</album>
+        </entry>
+        <entry>
+            <artist>Kraftwerk</artist>
+            <album> Computer World</album>
+        </entry>
+        <entry>
+            <artist>Krokodil</artist>
+            <album> An Invisible World Revealed</album>
+        </entry>
+        <entry>
+            <artist>Kurt Vile</artist>
+            <album> b’lieve i’m goin down…</album>
+        </entry>
+        <entry>
+            <artist>Kurt Vile</artist>
+            <album> (watch my moves)</album>
+        </entry>
+        <entry>
+            <artist>Lady Gaga</artist>
+            <album> Born This Way</album>
+        </entry>
+        <entry>
+            <artist>Lady Gaga</artist>
+            <album> MAYHEM</album>
+        </entry>
+        <entry>
+            <artist>La Luz</artist>
+            <album> It’s Alive</album>
+        </entry>
+        <entry>
+            <artist>La Luz</artist>
+            <album> Floating Features</album>
+        </entry>
+        <entry>
+            <artist>La Luz</artist>
+            <album> La Luz </album>
+        </entry>
+        <entry>
+            <artist>La Luz</artist>
+            <album> La Luz: The Instrumentals</album>
+        </entry>
+        <entry>
+            <artist>La Luz</artist>
+            <album> News of the Universe</album>
+        </entry>
+        <entry>
+            <artist>Lamp</artist>
+            <album> For Lovers </album>
+        </entry>
+        <entry>
+            <artist>Lamp</artist>
+            <album> Lamp Genso</album>
+        </entry>
+        <entry>
+            <artist>Laufey</artist>
+            <album> A Night At The Symphony</album>
+        </entry>
+        <entry>
+            <artist>Laufey</artist>
+            <album> Bewitched</album>
+        </entry>
+        <entry>
+            <artist>Laura Jane Grace</artist>
+            <album> Hole In My Head</album>
+        </entry>
+        <entry>
+            <artist>Laura Secord</artist>
+            <album> Ending Friendships</album>
+        </entry>
+        <entry>
+            <artist>The Lazy Eyes</artist>
+            <album> Songbook</album>
+        </entry>
+        <entry>
+            <artist>Leah Senior</artist>
+            <album> Summer's on the Ground</album>
+        </entry>
+        <entry>
+            <artist>Leah Senior</artist>
+            <album> Pretty Faces</album>
+        </entry>
+        <entry>
+            <artist>Leah Senior</artist>
+            <album> The Passing Scene</album>
+        </entry>
+        <entry>
+            <artist>Leah Senior</artist>
+            <album> The Music That I Make</album>
+        </entry>
+        <entry>
+            <artist>Led Zeppelin</artist>
+            <album> Led Zeppelin </album>
+        </entry>
+        <entry>
+            <artist>Led Zeppelin</artist>
+            <album> Led Zeppelin II</album>
+        </entry>
+        <entry>
+            <artist>Lemon Demon</artist>
+            <album> Nature Tapes</album>
+        </entry>
+        <entry>
+            <artist>Lemon Demon</artist>
+            <album> Spirit Phone</album>
+        </entry>
+        <entry>
+            <artist>The Lemon Twigs</artist>
+            <album> Do Hollywood</album>
+        </entry>
+        <entry>
+            <artist>leon chang</artist>
+            <album> re:treat</album>
+        </entry>
+        <entry>
+            <artist>leon chang</artist>
+            <album> bird world</album>
+        </entry>
+        <entry>
+            <artist>Le Tigre</artist>
+            <album> Le Tigre</album>
+        </entry>
+        <entry>
+            <artist>levitation room</artist>
+            <album> Headspace</album>
+        </entry>
+        <entry>
+            <artist>Liam Lynch</artist>
+            <album> Fake Songs</album>
+        </entry> Liana Flores - recently, <artist>Lightning Bolt</artist>
+        <album> Wonderful Rainbow</album>
+        <entry>
+            <artist>Lightning Bolt</artist>
+            <album> Sonic Citadel</album>
+        </entry>
+        <entry>
+            <artist>Lil Boodang</artist>
+            <album> The End of Everything</album>
+        </entry>
+        <entry>
+            <artist>Lincoln</artist>
+            <album> A Constant State of Ohio</album>
+        </entry>
+        <entry>
+            <artist>Lindsey Buckingham</artist>
+            <album> Go Insane</album>
+        </entry>
+        <entry>
+            <artist>Lingua Ignota</artist>
+            <album> CALIGULA</album>
+        </entry>
+        <entry>
+            <artist>Lisa Bella Donna</artist>
+            <album> Moogmentum</album>
+        </entry>
+        <entry>
+            <artist>LMFAO</artist>
+            <album> Sorry for Party Rocking</album>
+        </entry>
+        <entry>
+            <artist>Los Bitchos</artist>
+            <album> Let the Festivities Begin!</album>
+        </entry>
+        <entry>
+            <artist>Louie Zong</artist>
+            <album> y2k</album>
+        </entry>
+        <entry>
+            <artist>Louie Zong</artist>
+            <album> mushroom music</album>
+        </entry>
+        <entry>
+            <artist>Louie Zong</artist>
+            <album> Cartoon Funk</album>
+        </entry>
+        <entry>
+            <artist>Louie Zong</artist>
+            <album> Business!</album>
+        </entry>
+        <entry>
+            <artist>Louie Zong</artist>
+            <album> Cosmos</album>
+        </entry>
+        <entry>
+            <artist>Louie Zong</artist>
+            <album> Rat Taxi</album>
+        </entry>
+        <entry>
+            <artist>Lou Reed</artist>
+            <album> Transformer</album>
+        </entry>
+        <entry>
+            <artist>Love</artist>
+            <album> Forever Changes</album>
+        </entry>
+        <entry>
+            <artist>LoveJoy</artist>
+            <album> Are You Alright?</album>
+        </entry>
+        <entry>
+            <artist>LoveJoy</artist>
+            <album> Wake Up and It's Over</album>
+        </entry>
+        <entry>
+            <artist>Lucid Lynx</artist>
+            <album> Lucid Lynx</album>
+        </entry>
+        <entry>
+            <artist>Lucy Dacus</artist>
+            <album> Historian</album>
+        </entry>
+        <entry>
+            <artist>Lucy Dacus</artist>
+            <album> Forever is a Feeling</album>
+        </entry>
+        <entry>
+            <artist>Lucy in Blue</artist>
+            <album> In Flight</album>
+        </entry>
+        <entry>
+            <artist>Lunachicks</artist>
+            <album> Pretty Ugly</album>
+        </entry>
+        <entry>
+            <artist>Mabisyo</artist>
+            <album> Sun Colored Eyes</album>
+        </entry>
+        <entry>
+            <artist>Mac DeMarco</artist>
+            <album> 2</album>
+        </entry>
+        <entry>
+            <artist>Mac DeMarco</artist>
+            <album> Five Easy Hot Dogs</album>
+        </entry>
+        <entry>
+            <artist>Machine Girl</artist>
+            <album> WLFGRL</album>
+        </entry>
+        <entry>
+            <artist>Machine Girl</artist>
+            <album> Gemini</album>
+        </entry>
+        <artist>Machine Girl</artist>
+        <album> …BECAUSE I’M YOUNG ARROGANT AND HATE EVERYTHING YOU STAND FOR</album>
+        <entry>
+            <artist>Machine Girl</artist>
+            <album> The Ugly Art</album>
+        </entry>
+        <entry>
+            <artist>Machine Girl</artist>
+            <album> U-Void Synthesizer</album>
+        </entry>
+        <entry>
+            <artist>Machine Girl</artist>
+            <album> Super Freq</album>
+        </entry>
+        <entry>
+            <artist>Machine Girl</artist>
+            <album> MG Ultra</album>
+        </entry>
+        <entry>
+            <artist>Madonna</artist>
+            <album> Ray of Light</album>
+        </entry>
+        <entry>
+            <artist>Maidavale</artist>
+            <album> Tales of the Wicked West</album>
+        </entry>
+        <entry>
+            <artist>Maidavale</artist>
+            <album> Madness Is Too Pure</album>
+        </entry>
+        <entry>
+            <artist>Maidavale</artist>
+            <album> Sun Dog</album>
+        </entry>
+        <entry>
+            <artist>The Mamas and the Papas</artist>
+            <album> Golden Era Vol. 2</album>
+        </entry>
+        <entry>
+            <artist>Manfred Mann's Earth Band</artist>
+            <album> Solar Fire</album>
+        </entry>
+        <entry>
+            <artist>Man Or Astro-Man?</artist>
+            <album> Experiment Zero</album>
+        </entry>
+        <entry>
+            <artist>Man Or Astro-Man?</artist>
+            <album> Made From Technetium</album>
+        </entry>
+        <entry>
+            <artist>Man Or Astro-Man?</artist>
+            <album> Defcon 5…4…3…2…1</album>
+        </entry>
+        <entry>
+            <artist>Margo Guryan</artist>
+            <album> Take a Picture</album>
+        </entry>
+        <entry>
+            <artist>Mark Mothersbaugh</artist>
+            <album> Mutant Flora</album>
+        </entry>
+        <entry>
+            <artist>The Mars Volta</artist>
+            <album> Deloused in the Comatorium</album>
+        </entry>
+        <entry>
+            <artist>The Mars Volta</artist>
+            <album> Frances the Mute</album>
+        </entry>
+        <entry>
+            <artist>The Mars Volta</artist>
+            <album> The Bedlam in Goliath</album>
+        </entry>
+        <entry>
+            <artist>The Mars Volta</artist>
+            <album> The Mars Volta</album>
+        </entry>
+        <entry>
+            <artist>Martin L. Gore</artist>
+            <album> Counterfeit E.P.</album>
+        </entry>
+        <entry>
+            <artist>Martin L. Gore</artist>
+            <album> Counterfeit 2</album>
+        </entry>
+        <entry>
+            <artist>Martin L. Gore</artist>
+            <album> MG</album>
+        </entry>
+        <entry>
+            <artist>Martin L. Gore</artist>
+            <album> The Third Chimpanzee E.P.</album>
+        </entry>
+        <entry>
+            <artist>Marty Robbins</artist>
+            <album> Gunfighter Ballads and Trail Songs</album>
+        </entry>
+        <entry>
+            <artist>Masayoshi Takanaka</artist>
+            <album> All of Me</album>
+        </entry>
+        <entry>
+            <artist>Matt Watson</artist>
+            <album> OUCH!</album>
+        </entry>
+        <entry>
+            <artist>Mcbaise</artist>
+            <album> TUBES</album>
+        </entry>
+        <entry>
+            <artist>mclusky</artist>
+            <album> mclusky Do Dallas</album>
+        </entry>
+        <entry>
+            <artist>Mdou Moctar</artist>
+            <album> Ilana (The Creator)</album>
+        </entry>
+        <entry>
+            <artist>Mdou Moctar</artist>
+            <album> Afrique Victime</album>
+        </entry>
+        <entry>
+            <artist>Mdou Moctar</artist>
+            <album> Funeral for Justice</album>
+        </entry>
+        <entry>
+            <artist>Meatbodies</artist>
+            <album> Alice</album>
+        </entry>
+        <entry>
+            <artist>Melt Yourself Down</artist>
+            <album> Pray for Me I Don't Fit In</album>
+        </entry>
+        <entry>
+            <artist>Meshuggah</artist>
+            <album> Catch ThirtyThree</album>
+        </entry>
+        <entry>
+            <artist>Metallica</artist>
+            <album> Ride the Lightning</album>
+        </entry>
+        <entry>
+            <artist>Metallica</artist>
+            <album> Master of Puppets</album>
+        </entry>
+        <entry>
+            <artist>MGMT</artist>
+            <album> Oracular Spectacular</album>
+        </entry>
+        <entry>
+            <artist>MGMT</artist>
+            <album> Congratulations</album>
+        </entry>
+        <entry>
+            <artist>MGMT</artist>
+            <album> MGMT</album>
+        </entry>
+        <entry>
+            <artist>MGMT</artist>
+            <album> Little Dark Age</album>
+        </entry>
+        <entry>
+            <artist>MGMT</artist>
+            <album> 11●11●11</album>
+        </entry>
+        <entry>
+            <artist>MGMT</artist>
+            <album> Loss of Life</album>
+        </entry>
+        <entry>
+            <artist>The Microphones</artist>
+            <album> The Glow, Part 2</album>
+        </entry>
+        <entry>
+            <artist>Mild High Club</artist>
+            <album> Timeline</album>
+        </entry>
+        <entry>
+            <artist>Mild High Club</artist>
+            <album> Skiptracing</album>
+        </entry>
+        <entry>
+            <artist>Mild High Club</artist>
+            <album> Going Going Gone</album>
+        </entry>
+        <entry>
+            <artist>Miles Davis</artist>
+            <album> Bitches Brew</album>
+        </entry>
+        <entry>
+            <artist>MIMIDEATH</artist>
+            <album> effective. Power</album>
+        </entry>
+        <entry>
+            <artist>Minami Deutsch</artist>
+            <album> Fortune Goodies</album>
+        </entry>
+        <entry>
+            <artist>Ministry</artist>
+            <album> With Sympathy</album>
+        </entry>
+        <entry>
+            <artist>Miranda Sex Garden</artist>
+            <album> Fairytales of Slavery</album>
+        </entry>
+        <entry>
+            <artist>Mitski</artist>
+            <album> Lush</album>
+        </entry>
+        <entry>
+            <artist>Mitski</artist>
+            <album> Retired From Sad, New Career In Business</album>
+        </entry>
+        <entry>
+            <artist>Mitski</artist>
+            <album> bury me at makeout creek </album>
+        </entry>
+        <entry>
+            <artist>Mitski</artist>
+            <album> Puberty 2</album>
+        </entry>
+        <entry>
+            <artist>Mitski</artist>
+            <album> Be the Cowboy</album>
+        </entry>
+        <entry>
+            <artist>Mitski</artist>
+            <album> Laurel Hell</album>
+        </entry>
+        <entry>
+            <artist>Mitski</artist>
+            <album> The Land is Inhospitable and So Are We</album>
+        </entry>
+        <entry>
+            <artist>Model/Actriz</artist>
+            <album> Dogsbody</album>
+        </entry>
+        <artist>Modest Mouse</artist>
+        <album> This is a Long Drive for Someone with Nothing to Think About</album>
+        <entry>
+            <artist>Modulator II</artist>
+            <album> Slivered Hearse</album>
+        </entry>
+        <entry>
+            <artist>Molchat Doma</artist>
+            <album> Etazhi</album>
+        </entry>
+        <entry>
+            <artist>Molchat Doma</artist>
+            <album> Monument</album>
+        </entry>
+        <entry>
+            <artist>Mommy Long Legs</artist>
+            <album> Life Rips</album>
+        </entry>
+        <entry>
+            <artist>Mong Tong</artist>
+            <album> Mystery 秘神</album>
+        </entry>
+        <entry>
+            <artist>Monodrone</artist>
+            <album> Forbidden Fruit</album>
+        </entry>
+        <entry>
+            <artist>The Moody Blues</artist>
+            <album> Days of Future Passed</album>
+        </entry>
+        <entry>
+            <artist>Mook</artist>
+            <album> Mook</album>
+        </entry>
+        <entry>
+            <artist>Moon Duo</artist>
+            <album> Circles</album>
+        </entry>
+        <entry>
+            <artist>Morgan Delt</artist>
+            <album> Morgan Delt</album>
+        </entry>
+        <entry>
+            <artist>Morgan Delt</artist>
+            <album> Phase Zero</album>
+        </entry>
+        <entry>
+            <artist>Mort Garson</artist>
+            <album> Didn’t You Hear?</album>
+        </entry>
+        <entry>
+            <artist>Mort Garson</artist>
+            <album> Plantasia</album>
+        </entry>
+        <entry>
+            <artist>Moses Gunn Collective</artist>
+            <album> Morning Shakes EP</album>
+        </entry>
+        <entry>
+            <artist>Moses Gunn Collective</artist>
+            <album> Mercy Mountain</album>
+        </entry>
+        <entry>
+            <artist>Moses Gunn Collective</artist>
+            <album> Dr. Moses Love Hospital</album>
+        </entry>
+        <entry>
+            <artist>Mother Love Bone</artist>
+            <album> Mother Love Bone</album>
+        </entry>
+        <entry>
+            <artist>Mr. Bungle</artist>
+            <album> Mr. Bungle</album>
+        </entry>
+        <entry>
+            <artist>Mr. Bungle</artist>
+            <album> California</album>
+        </entry>
+        <entry>
+            <artist>Mr. Elevator</artist>
+            <album> Nico and Her Psychedelic Subconscious</album>
+        </entry>
+        <entry>
+            <artist>Mr. Kitty</artist>
+            <album> TIME</album>
+        </entry>
+        <entry>
+            <artist>The Murlocs</artist>
+            <album> The Murlocs</album>
+        </entry>
+        <entry>
+            <artist>The Murlocs</artist>
+            <album> Tee Pee</album>
+        </entry>
+        <entry>
+            <artist>The Murlocs</artist>
+            <album> Loopholes</album>
+        </entry>
+        <entry>
+            <artist>The Murlocs</artist>
+            <album> Young Blindness</album>
+        </entry>
+        <entry>
+            <artist>The Murlocs</artist>
+            <album> Old Locomotive</album>
+        </entry>
+        <entry>
+            <artist>The Murlocs</artist>
+            <album> Manic Candid Episode</album>
+        </entry>
+        <entry>
+            <artist>The Murlocs</artist>
+            <album> Bittersweet Demons</album>
+        </entry>
+        <entry>
+            <artist>The Murlocs</artist>
+            <album> Rapscallion</album>
+        </entry>
+        <entry>
+            <artist>The Murlocs</artist>
+            <album> Calm Ya Farm</album>
+        </entry>
+        <entry>
+            <artist>The Murlocs</artist>
+            <album> Live at The Teragram Ballroom</album>
+        </entry>
+        <entry>
+            <artist>My Chemical Romance</artist>
+            <album> The Black Parade</album>
+        </entry>
+        <artist>my dead girlfriend</artist>
+        <album> hades (the nine stages of change at the deceased remains)</album>
+        <entry>
+            <artist>The Mystery Lights</artist>
+            <album> The Mystery Lights</album>
+        </entry>
+        <entry>
+            <artist>Mystic Braves</artist>
+            <album> Days of Yesteryear</album>
+        </entry>
+        <entry>
+            <artist>Naked Eyes</artist>
+            <album> Naked Eyes</album>
+        </entry>
+        <entry>
+            <artist>New Order</artist>
+            <album> Movement</album>
+        </entry>
+        <entry>
+            <artist>Nick Cave and The Bad Seeds</artist>
+            <album> From Her to Eternity</album>
+        </entry>
+        <entry>
+            <artist>Nick Cave and The Bad Seeds</artist>
+            <album> Let Love In</album>
+        </entry>
+        <entry>
+            <artist>Nick Cave and The Bad Seeds</artist>
+            <album> Murder Ballads</album>
+        </entry>
+        <entry>
+            <artist>Night Beats</artist>
+            <album> Rajan</album>
+        </entry>
+        <entry>
+            <artist>Nine Inch Nails</artist>
+            <album> Pretty Hate Machine</album>
+        </entry>
+        <entry>
+            <artist>Nine Inch Nails</artist>
+            <album> Broken</album>
+        </entry>
+        <entry>
+            <artist>Nine Inch Nails</artist>
+            <album> Fixed</album>
+        </entry>
+        <entry>
+            <artist>Nine Inch Nails</artist>
+            <album> The Downward Spiral</album>
+        </entry>
+        <entry>
+            <artist>Nine Inch Nails</artist>
+            <album> Live at Woodstock ‘94</album>
+        </entry>
+        <entry>
+            <artist>Nine Inch Nails</artist>
+            <album> The Fragile</album>
+        </entry>
+        <entry>
+            <artist>Nine Inch Nails</artist>
+            <album> With Teeth</album>
+        </entry>
+        <entry>
+            <artist>Nine Inch Nails</artist>
+            <album> Year Zero</album>
+        </entry>
+        <entry>
+            <artist>Nine Inch Nails</artist>
+            <album> Ghosts I-IV</album>
+        </entry>
+        <entry>
+            <artist>Nine Inch Nails</artist>
+            <album> Hesitation Marks</album>
+        </entry>
+        <entry>
+            <artist>Nine Inch Nails</artist>
+            <album> Add Violence</album>
+        </entry>
+        <entry>
+            <artist>Nine Inch Nails</artist>
+            <album> Ghosts V: Together</album>
+        </entry>
+        <entry>
+            <artist>Nine Inch Nails</artist>
+            <album> Ghosts VI: Locusts</album>
+        </entry>
+        <entry>
+            <artist>Ninja Sex Party</artist>
+            <album> Under the Covers</album>
+        </entry>
+        <entry>
+            <artist>Ninja Sex Party</artist>
+            <album> Under the Covers vol. II</album>
+        </entry>
+        <entry>
+            <artist>Ninja Sex Party</artist>
+            <album> Cool Patrol</album>
+        </entry>
+        <entry>
+            <artist>Ninja Sex Party</artist>
+            <album> Under the Covers vol. III</album>
+        </entry>
+        <entry>
+            <artist>Nirvana</artist>
+            <album> Nevermind</album>
+        </entry>
+        <entry>
+            <artist>Nirvana</artist>
+            <album> Incesticide</album>
+        </entry>
+        <entry>
+            <artist>Nirvana</artist>
+            <album> In Utero </album>
+        </entry>
+        <entry>
+            <artist>Nitzer Ebb</artist>
+            <album> Ebbhead</album>
+        </entry>
+        <entry>
+            <artist>Nolan Potter</artist>
+            <album> A Spirit Lasts Forever</album>
+        </entry>
+        <entry>
+            <artist>Nolan Potter</artist>
+            <album> EGGBOUND</album>
+        </entry>
+        <entry>
+            <artist>Nolan Potter</artist>
+            <album> Music is Dead</album>
+        </entry>
+        <entry>
+            <artist>Nolan Potter’s Nightmare Band</artist>
+            <album> Nightmare Forever</album>
+        </entry>
+        <entry>
+            <artist>O.</artist>
+            <album> WeirdOs</album>
+        </entry>
+        <entry>
+            <artist>of Montreal</artist>
+            <album> The Sunlandic Twins</album>
+        </entry>
+        <entry>
+            <artist>of Montreal</artist>
+            <album> Hissing Fauna, Are You the Destroyer?</album>
+        </entry>
+        <entry>
+            <artist>of Montreal</artist>
+            <album> Paralytic Stalks</album>
+        </entry>
+        <entry>
+            <artist>Oingo Boingo</artist>
+            <album> Only A Lad</album>
+        </entry>
+        <entry>
+            <artist>Oingo Boingo</artist>
+            <album> Nothing to Fear</album>
+        </entry>
+        <entry>
+            <artist>Oingo Boingo</artist>
+            <album> Good For Your Soul</album>
+        </entry>
+        <entry>
+            <artist>Oingo Boingo</artist>
+            <album> Dead Man’s Party</album>
+        </entry>
+        <entry>
+            <artist>Oingo Boingo</artist>
+            <album> Boi-Ngo</album>
+        </entry>
+        <entry>
+            <artist>oklou</artist>
+            <album> choke enough</album>
+        </entry>
+        <entry>
+            <artist>Oog Bogo</artist>
+            <album> Plastic</album>
+        </entry>
+        <entry>
+            <artist>ORB</artist>
+            <album> Birth</album>
+        </entry>
+        <entry>
+            <artist>ORB</artist>
+            <album> Naturality</album>
+        </entry>
+        <entry>
+            <artist>Orchestral Manoeuvres in the Dark</artist>
+            <album> Architecture and Morality</album>
+        </entry>
+        <entry>
+            <artist>Otoboke Beaver</artist>
+            <album> ITEKOMA HITS</album>
+        </entry>
+        <entry>
+            <artist>Otoboke Beaver</artist>
+            <album> SUPER CHAMPON</album>
+        </entry>
+        <entry>
+            <artist>Otto Benson</artist>
+            <album> Songs Before Bed</album>
+        </entry>
+        <entry>
+            <artist>Out of Service</artist>
+            <album> Morning</album>
+        </entry>
+        <entry>
+            <artist>Out of Service</artist>
+            <album> Burden</album>
+        </entry>
+        <entry>
+            <artist>Out of Service</artist>
+            <album> The Ground Beneath Me</album>
+        </entry>
+        <entry>
+            <artist>Pacific 231</artist>
+            <album> Miyashiro</album>
+        </entry>
+        <entry>
+            <artist>Panda Bear</artist>
+            <album> Sinister Grift</album>
+        </entry>
+        <entry>
+            <artist>Panic Priest</artist>
+            <album> Second Seduction</album>
+        </entry>
+        <entry>
+            <artist>The Paradise Bangkok Molam International Band</artist>
+            <album> 21st Century Molam</album>
+        </entry>
+        <entry>
+            <artist>Paramore</artist>
+            <album> This Is Why</album>
+        </entry>
+        <entry>
+            <artist>Parquet Courts</artist>
+            <album> Wide Awake!</album>
+        </entry>
+        <entry>
+            <artist>Parquet Courts</artist>
+            <album> Sympathy for Life</album>
+        </entry>
+        <entry>
+            <artist>Patricia Wolf</artist>
+            <album> See-Through</album>
+        </entry>
+        <entry>
+            <artist>Patti Smith</artist>
+            <album> Easter</album>
+        </entry> Paul Cherry - On Top <entry>
+            <artist>Pavement</artist>
+            <album> Slanted and Enchanted</album>
+        </entry>
+        <entry>
+            <artist>Pavement</artist>
+            <album> Brighten the Corners</album>
+        </entry>
+        <entry>
+            <artist>Pearl Jam</artist>
+            <album> Ten</album>
+        </entry>
+        <entry>
+            <artist>People Taking Pictures</artist>
+            <album> Informative Noise</album>
+        </entry>
+        <entry>
+            <artist>People Taking Pictures</artist>
+            <album> Allergic to Silence</album>
+        </entry>
+        <entry>
+            <artist>People Taking Pictures</artist>
+            <album> For Meta or for Worse</album>
+        </entry>
+        <entry>
+            <artist>Personality Cult</artist>
+            <album> New Arrows</album>
+        </entry>
+        <entry>
+            <artist>Peter Gabriel</artist>
+            <album> Peter Gabriel 3: Melt</album>
+        </entry>
+        <entry>
+            <artist>Peter Gabriel</artist>
+            <album> So</album>
+        </entry>
+        <entry>
+            <artist>Pet Shop Boys</artist>
+            <album> Please</album>
+        </entry>
+        <entry>
+            <artist>Pet Shop Boys</artist>
+            <album> Behaviour</album>
+        </entry>
+        <entry>
+            <artist>Pet Shop Boys</artist>
+            <album> Very</album>
+        </entry>
+        <entry>
+            <artist>Pet Shop Boys</artist>
+            <album> Nonetheless</album>
+        </entry>
+        <entry>
+            <artist>Phil Collins</artist>
+            <album> Face Value</album>
+        </entry>
+        <entry>
+            <artist>Phoebe Bridgers</artist>
+            <album> Punisher</album>
+        </entry>
+        <entry>
+            <artist>Pink Floyd</artist>
+            <album> The Piper At The Gates of Dawn</album>
+        </entry>
+        <entry>
+            <artist>Pink Floyd</artist>
+            <album> A Saucerful of Secrets</album>
+        </entry>
+        <entry>
+            <artist>Pink Floyd</artist>
+            <album> Meddle</album>
+        </entry>
+        <entry>
+            <artist>Pink Floyd</artist>
+            <album> Obscured by Clouds</album>
+        </entry>
+        <entry>
+            <artist>Pink Floyd</artist>
+            <album> The Dark Side of the Moon</album>
+        </entry>
+        <entry>
+            <artist>Pink Floyd</artist>
+            <album> Animals</album>
+        </entry>
+        <entry>
+            <artist>Pink Floyd</artist>
+            <album> The Wall</album>
+        </entry>
+        <entry>
+            <artist>Pink Floyd</artist>
+            <album> The Dark Side of the Moon: Live at Wembley</album>
+        </entry>
+        <entry>
+            <artist>Pipe-Eye</artist>
+            <album> Cosmic Blip</album>
+        </entry>
+        <entry>
+            <artist>Pipe-Eye</artist>
+            <album> Laugh About Life</album>
+        </entry>
+        <entry>
+            <artist>Pipe-Eye</artist>
+            <album> Inside/Outside</album>
+        </entry>
+        <entry>
+            <artist>Pipe-Eye</artist>
+            <album> Dream Themes</album>
+        </entry>
+        <entry>
+            <artist>Pixies</artist>
+            <album> Surfer Rosa</album>
+        </entry>
+        <entry>
+            <artist>Pixies</artist>
+            <album> Doolittle</album>
+        </entry>
+        <entry>
+            <artist>Pixies</artist>
+            <album> Bossanova</album>
+        </entry>
+        <entry>
+            <artist>Pixies</artist>
+            <album> Live From Red Rocks 2005</album>
+        </entry>
+        <entry>
+            <artist>Pixies</artist>
+            <album> Pixies at the BBC, 1988-91</album>
+        </entry>
+        <entry>
+            <artist>Pixies</artist>
+            <album> The Night the Zombies Came</album>
+        </entry>
+        <entry>
+            <artist>PJ Harvey</artist>
+            <album> Dry</album>
+        </entry>
+        <entry>
+            <artist>PJ Harvey</artist>
+            <album> Rid of Me</album>
+        </entry>
+        <entry>
+            <artist>PJ Harvey</artist>
+            <album> To Bring You My Love</album>
+        </entry>
+        <entry>
+            <artist>PJ Harvey</artist>
+            <album> Is This Desire?</album>
+        </entry>
+        <entry>
+            <artist>PJ Harvey</artist>
+            <album> Stories from the City, Stories from the Sea</album>
+        </entry>
+        <entry>
+            <artist>PJ Harvey</artist>
+            <album> Uh Huh Her</album>
+        </entry>
+        <entry>
+            <artist>PJ Harvey</artist>
+            <album> White Chalk</album>
+        </entry>
+        <entry>
+            <artist>PJ Harvey</artist>
+            <album> Let England Shake</album>
+        </entry>
+        <entry>
+            <artist>PJ Harvey</artist>
+            <album> The Hope Six Demolition Project</album>
+        </entry>
+        <entry>
+            <artist>PJ Harvey</artist>
+            <album> I Inside The Old Year Dying</album>
+        </entry>
+        <entry>
+            <artist>Poe</artist>
+            <album> Haunted</album>
+        </entry>
+        <entry>
+            <artist>Pond</artist>
+            <album> Beards, Wives, Denim</album>
+        </entry>
+        <entry>
+            <artist>Pond</artist>
+            <album> Hobo Rocket</album>
+        </entry>
+        <entry>
+            <artist>Pond</artist>
+            <album> Man It Feels Like Space Again</album>
+        </entry>
+        <entry>
+            <artist>Pond</artist>
+            <album> The Weather</album>
+        </entry>
+        <entry>
+            <artist>Pond</artist>
+            <album> 9</album>
+        </entry>
+        <entry>
+            <artist>Pond</artist>
+            <album> Stung!</album>
+        </entry>
+        <entry>
+            <artist>Poppy</artist>
+            <album> I Disagree</album>
+        </entry>
+        <entry>
+            <artist>Population II</artist>
+            <album> À la Ô Terre</album>
+        </entry>
+        <entry>
+            <artist>Portishead</artist>
+            <album> Dummy</album>
+        </entry>
+        <entry>
+            <artist>Post Animal</artist>
+            <album> When I Think of You in a Castle</album>
+        </entry>
+        <entry>
+            <artist>Post Animal</artist>
+            <album> Forward Motion Godyssey</album>
+        </entry>
+        <entry>
+            <artist>Primus</artist>
+            <album> Frizzle Fry</album>
+        </entry>
+        <entry>
+            <artist>Primus</artist>
+            <album> Sailing the Seas of Cheese</album>
+        </entry>
+        <entry>
+            <artist>Primus</artist>
+            <album> Pork Soda</album>
+        </entry>
+        <entry>
+            <artist>Primus</artist>
+            <album> Tales from the Punchbowl</album>
+        </entry>
+        <entry>
+            <artist>Primus</artist>
+            <album> Conspiranoid</album>
+        </entry>
+        <entry>
+            <artist>Protomartyr</artist>
+            <album> No Passion All Technique </album>
+        </entry>
+        <entry>
+            <artist>Protomartyr</artist>
+            <album> Ultimate Success Today</album>
+        </entry>
+        <entry>
+            <artist>Pseudo Mind Hive</artist>
+            <album> From Elsewhere</album>
+        </entry>
+        <entry>
+            <artist>Pseudo Mind Hive</artist>
+            <album> Of Seers and Sirens</album>
+        </entry>
+        <entry>
+            <artist>Pseudo Mind Hive</artist>
+            <album> Volume III</album>
+        </entry>
+        <entry>
+            <artist>Psychedelic Porn Crumpets</artist>
+            <album> High Visceral Pt. 1</album>
+        </entry>
+        <entry>
+            <artist>Psychedelic Porn Crumpets</artist>
+            <album> High Visceral Pt. 2</album>
+        </entry>
+        <entry>
+            <artist>Psychedelic Porn Crumpets</artist>
+            <album> High Visceral B-Sides</album>
+        </entry>
+        <entry>
+            <artist>Psychedelic Porn Crumpets</artist>
+            <album> And Now for the Whatchamacallit</album>
+        </entry>
+        <entry>
+            <artist>Psychedelic Porn Crumpets</artist>
+            <album> SHYGA! The Sunlight Mound</album>
+        </entry>
+        <entry>
+            <artist>Psychedelic Porn Crumpets</artist>
+            <album> Night Gnomes</album>
+        </entry>
+        <entry>
+            <artist>Pulp</artist>
+            <album> Freaks</album>
+        </entry>
+        <entry>
+            <artist>Q Lazzarus</artist>
+            <album> Goodbye Horses: The Many Lives of Q Lazzarus</album>
+        </entry>
+        <entry>
+            <artist>Queen</artist>
+            <album> Queen II</album>
+        </entry>
+        <entry>
+            <artist>Queen</artist>
+            <album> News of the World</album>
+        </entry>
+        <entry>
+            <artist>Queen</artist>
+            <album> The Game</album>
+        </entry>
+        <entry>
+            <artist>Queens of the Stone Age</artist>
+            <album> Rated R</album>
+        </entry>
+        <entry>
+            <artist>Queens of the Stone Age</artist>
+            <album> Songs for the Deaf</album>
+        </entry>
+        <entry>
+            <artist>Queens of the Stone Age</artist>
+            <album> Era Vulgaris</album>
+        </entry>
+        <entry>
+            <artist>The Raconteurs</artist>
+            <album> Help Us Stranger</album>
+        </entry>
+        <entry>
+            <artist>Radiohead</artist>
+            <album> Pablo Honey</album>
+        </entry>
+        <entry>
+            <artist>Radiohead</artist>
+            <album> The Bends</album>
+        </entry>
+        <entry>
+            <artist>Radiohead</artist>
+            <album> Street Spirit (Fade Out)</album>
+        </entry>
+        <entry>
+            <artist>Radiohead</artist>
+            <album> OK Computer</album>
+        </entry>
+        <entry>
+            <artist>Radiohead</artist>
+            <album> Kid A</album>
+        </entry>
+        <entry>
+            <artist>Radiohead</artist>
+            <album> Amnesiac</album>
+        </entry>
+        <entry>
+            <artist>Radiohead</artist>
+            <album> Hail to the Thief</album>
+        </entry>
+        <entry>
+            <artist>Radiohead</artist>
+            <album> In Rainbows</album>
+        </entry>
+        <entry>
+            <artist>Radiohead</artist>
+            <album> In Rainbows Disk 2</album>
+        </entry>
+        <entry>
+            <artist>Rammstein</artist>
+            <album> Sehnsucht</album>
+        </entry>
+        <entry>
+            <artist>Rammstein</artist>
+            <album> Live aus Berlin</album>
+        </entry>
+        <entry>
+            <artist>Rammstein</artist>
+            <album> Mutter</album>
+        </entry>
+        <entry>
+            <artist>Red Vox</artist>
+            <album> What Could Go Wrong</album>
+        </entry>
+        <entry>
+            <artist>Red Vox</artist>
+            <album> Blood Bagel</album>
+        </entry>
+        <entry>
+            <artist>Red Vox</artist>
+            <album> Another Light</album>
+        </entry>
+        <entry>
+            <artist>Red Vox</artist>
+            <album> Kerosene</album>
+        </entry>
+        <entry>
+            <artist>Red Vox</artist>
+            <album> Realign</album>
+        </entry>
+        <entry>
+            <artist>Red Vox</artist>
+            <album> Lost for a While</album>
+        </entry>
+        <entry>
+            <artist>Red Vox</artist>
+            <album> Visions</album>
+        </entry>
+        <entry>
+            <artist>Red Vox</artist>
+            <album> Afterthoughts</album>
+        </entry>
+        <entry>
+            <artist>Renaissance</artist>
+            <album> Ashes are Burning</album>
+        </entry>
+        <entry>
+            <artist>The Residents</artist>
+            <album> Meet the Residents</album>
+        </entry>
+        <entry>
+            <artist>Richard Dawson and Circle</artist>
+            <album> Henki</album>
+        </entry>
+        <entry>
+            <artist>Robohands</artist>
+            <album> Green</album>
+        </entry>
+        <entry>
+            <artist>Robohands</artist>
+            <album> Dusk</album>
+        </entry>
+        <entry>
+            <artist>Robohands</artist>
+            <album> Shapes</album>
+        </entry>
+        <entry>
+            <artist>Robohands</artist>
+            <album> Violet</album>
+        </entry>
+        <entry>
+            <artist>Robohands</artist>
+            <album> Palms</album>
+        </entry>
+        <entry>
+            <artist>Robohands</artist>
+            <album> Giallo</album>
+        </entry>
+        <entry>
+            <artist>Rob Zombie</artist>
+            <album> Hellbilly Deluxe</album>
+        </entry>
+        <entry>
+            <artist>Rob Zombie</artist>
+            <album> The Lunar Injection Kool-Aid Eclipse Conspiracy</album>
+        </entry>
+        <entry>
+            <artist>Roger Eno</artist>
+            <album> Between Tides</album>
+        </entry>
+        <entry>
+            <artist>Rosegarden Funeral Party</artist>
+            <album> Martyr</album>
+        </entry>
+        <entry>
+            <artist>Rosegarden Funeral Party</artist>
+            <album> In the Wake of Fire</album>
+        </entry>
+        <entry>
+            <artist>Rush</artist>
+            <album> Rush</album>
+        </entry>
+        <entry>
+            <artist>Rush</artist>
+            <album> 2112</album>
+        </entry>
+        <entry>
+            <artist>Rush</artist>
+            <album> A Farewell to Kings</album>
+        </entry>
+        <entry>
+            <artist>Rush</artist>
+            <album> Hemispheres</album>
+        </entry>
+        <entry>
+            <artist>Rush</artist>
+            <album> Moving Pictures</album>
+        </entry>
+        <entry>
+            <artist>Rush</artist>
+            <album> Test for Echo</album>
+        </entry>
+        <entry>
+            <artist>Ryo Fukui</artist>
+            <album> Scenery</album>
+        </entry>
+        <entry>
+            <artist>Ryo Kawasaki</artist>
+            <album> Juice</album>
+        </entry>
+        <entry>
+            <artist>Ryuichi Sakamoto</artist>
+            <album> Ongaku Zukan</album>
+        </entry>
+        <entry>
+            <artist>Ryuichi Sakamoto</artist>
+            <album> L.O.L. (Lack of Love)</album>
+        </entry>
+        <entry>
+            <artist>Satomimagae</artist>
+            <album> Koko</album>
+        </entry>
+        <entry>
+            <artist>Satomimagae</artist>
+            <album> Hanazono</album>
+        </entry>
+        <entry>
+            <artist>Savages</artist>
+            <album> Silence Yourself</album>
+        </entry>
+        <entry>
+            <artist>Savages</artist>
+            <album> Adore Life</album>
+        </entry>
+        <entry>
+            <artist>Screaming Females</artist>
+            <album> Rose Mountain</album>
+        </entry>
+        <entry>
+            <artist>The Shaolin Afronauts</artist>
+            <album> Flight of the Ancients</album>
+        </entry>
+        <entry>
+            <artist>The Shaolin Afronauts</artist>
+            <album> Quest Under Capricorn</album>
+        </entry>
+        <entry>
+            <artist>Shintaro Sakamoto</artist>
+            <album> How to Live with a Phantom </album>
+        </entry>
+        <entry>
+            <artist>Shiro Michi All Stars</artist>
+            <album> You and the Night</album>
+        </entry>
+        <entry>
+            <artist>The Shivas</artist>
+            <album> Dark Thoughts</album>
+        </entry>
+        <entry>
+            <artist>Show Me The Body</artist>
+            <album> Body War</album>
+        </entry>
+        <entry>
+            <artist>Silent Island</artist>
+            <album> Stormvalley</album>
+        </entry>
+        <entry>
+            <artist>Sinéad O’Connor</artist>
+            <album> The Lion and the Cobra</album>
+        </entry>
+        <entry>
+            <artist>Siouxsie and the Banshees</artist>
+            <album> Kaleidoscope</album>
+        </entry>
+        <entry>
+            <artist>Siouxsie and the Banshees</artist>
+            <album> Juju</album>
+        </entry>
+        <entry>
+            <artist>Siouxsie and the Banshees</artist>
+            <album> A Kiss in the Dreamhouse</album>
+        </entry>
+        <entry>
+            <artist>Siouxsie and the Banshees</artist>
+            <album> Hyæna</album>
+        </entry>
+        <entry>
+            <artist>Siouxsie and the Banshees</artist>
+            <album> Tinderbox</album>
+        </entry>
+        <entry>
+            <artist>Sir Chloe</artist>
+            <album> Party Favors</album>
+        </entry>
+        <entry>
+            <artist>Sir Chloe</artist>
+            <album> I Am The Dog</album>
+        </entry>
+        <entry>
+            <artist>The Sisters of Mercy</artist>
+            <album> Floodland</album>
+        </entry>
+        <entry>
+            <artist>Skindred</artist>
+            <album> Babylon</album>
+        </entry>
+        <entry>
+            <artist>Skinny Puppy</artist>
+            <album> Too Dark Park</album>
+        </entry>
+        <entry>
+            <artist>Skyhill</artist>
+            <album> Run With The Hunted</album>
+        </entry>
+        <entry>
+            <artist>Slagatha Christie</artist>
+            <album> Thomas the Skank Engine</album>
+        </entry>
+        <entry>
+            <artist>Slayer</artist>
+            <album> Reign In Blood</album>
+        </entry>
+        <entry>
+            <artist>Sleater-Kinney</artist>
+            <album> The Center Won't Hold</album>
+        </entry>
+        <entry>
+            <artist>SLIFT</artist>
+            <album> Space Is The Key</album>
+        </entry>
+        <entry>
+            <artist>SLIFT</artist>
+            <album> La Planète Inexplorée</album>
+        </entry>
+        <entry>
+            <artist>SLIFT</artist>
+            <album> UMMON</album>
+        </entry>
+        <entry>
+            <artist>SLIFT</artist>
+            <album> Levitation Sessions</album>
+        </entry>
+        <entry>
+            <artist>SLIFT</artist>
+            <album> ILION</album>
+        </entry>
+        <entry>
+            <artist>The Slingers</artist>
+            <album> Sentimentalism</album>
+        </entry>
+        <entry>
+            <artist>Slint</artist>
+            <album> Spiderland</album>
+        </entry>
+        <entry>
+            <artist>Slow Pulp</artist>
+            <album> EP2</album>
+        </entry>
+        <entry>
+            <artist>Slow Pulp</artist>
+            <album> Big Day</album>
+        </entry>
+        <entry>
+            <artist>Slow Pulp</artist>
+            <album> Moveys</album>
+        </entry>
+        <entry>
+            <artist>The Smile</artist>
+            <album> A Light for Attracting Attention</album>
+        </entry>
+        <entry>
+            <artist>The Smile</artist>
+            <album> Wall of Eyes</album>
+        </entry>
+        <entry>
+            <artist>The Smile</artist>
+            <album> Cutouts</album>
+        </entry>
+        <entry>
+            <artist>The Smiths</artist>
+            <album> Hatful of Hollow</album>
+        </entry>
+        <entry>
+            <artist>Snake River Conspiracy</artist>
+            <album> Sonic Jihad </album>
+        </entry>
+        <entry>
+            <artist>Sneaker Pimps</artist>
+            <album> Becoming X</album>
+        </entry>
+        <entry>
+            <artist>Sneaker Pimps</artist>
+            <album> Splinter</album>
+        </entry>
+        <entry>
+            <artist>SOPHIE</artist>
+            <album> OIL OF EVERY PEARL’S UN-SIDES</album>
+        </entry>
+        <entry>
+            <artist>Soundgarden</artist>
+            <album> Badmotorfinger</album>
+        </entry>
+        <entry>
+            <artist>Soundgarden</artist>
+            <album> Superunknown</album>
+        </entry>
+        <entry>
+            <artist>Soundgarden</artist>
+            <album> Echo of Miles: The Originals</album>
+        </entry>
+        <entry>
+            <artist>Sound of Ceres</artist>
+            <album> Emerald Sea</album>
+        </entry>
+        <entry>
+            <artist>Spaceslug</artist>
+            <album> Lemanis</album>
+        </entry>
+        <entry>
+            <artist>Sparks</artist>
+            <album> Kimono My House</album>
+        </entry>
+        <entry>
+            <artist>Sparks</artist>
+            <album> Propaganda</album>
+        </entry>
+        <entry>
+            <artist>Squid</artist>
+            <album> Bright Green Field</album>
+        </entry>
+        <entry>
+            <artist>Squid</artist>
+            <album> O Monolith </album>
+        </entry>
+        <entry>
+            <artist>Stabilizers</artist>
+            <album> Tyranny</album>
+        </entry>
+        <entry>
+            <artist>Starbomb</artist>
+            <album> Starbomb</album>
+        </entry>
+        <entry>
+            <artist>Starbomb</artist>
+            <album> Player Select</album>
+        </entry>
+        <entry>
+            <artist>Starbomb</artist>
+            <album> The Tryforce</album>
+        </entry>
+        <entry>
+            <artist>Static-X</artist>
+            <album> Wisconsin Death Trip</album>
+        </entry>
+        <entry>
+            <artist>Static-X</artist>
+            <album> Start A War</album>
+        </entry>
+        <entry>
+            <artist>Steady Sun</artist>
+            <album> F L O R A</album>
+        </entry>
+        <entry>
+            <artist>Steely Dan</artist>
+            <album> Can't Buy a Thrill</album>
+        </entry>
+        <entry>
+            <artist>Stereolab</artist>
+            <album> Emperor Tomato Ketchup</album>
+        </entry>
+        <entry>
+            <artist>Stevia</artist>
+            <album> Fruits of the Room</album>
+        </entry>
+        <entry>
+            <artist>Stonefield</artist>
+            <album> As Above, So Below</album>
+        </entry>
+        <entry>
+            <artist>Stonefield</artist>
+            <album> Far From Earth</album>
+        </entry>
+        <entry>
+            <artist>Stonefield</artist>
+            <album> BENT</album>
+        </entry>
+        <entry>
+            <artist>Stuck in the Sound</artist>
+            <album> Nevermind the Living Dead</album>
+        </entry>
+        <entry>
+            <artist>St. Vincent</artist>
+            <album> Marry Me</album>
+        </entry>
+        <entry>
+            <artist>St. Vincent</artist>
+            <album> Actor</album>
+        </entry>
+        <entry>
+            <artist>St. Vincent</artist>
+            <album> MASSEDUCTION</album>
+        </entry>
+        <entry>
+            <artist>St. Vincent</artist>
+            <album> Daddy's Home</album>
+        </entry>
+        <entry>
+            <artist>St. Vincent</artist>
+            <album> All Born Screaming</album>
+        </entry>
+        <entry>
+            <artist>Sugar Candy Mountain</artist>
+            <album> 666</album>
+        </entry>
+        <entry>
+            <artist>Supertramp</artist>
+            <album> Breakfast in America</album>
+        </entry>
+        <entry>
+            <artist>Surfbort</artist>
+            <album> You Don't Exist</album>
+        </entry>
+        <entry>
+            <artist>Sweet Whirl</artist>
+            <album> How Much Works</album>
+        </entry>
+        <entry>
+            <artist>The Sword</artist>
+            <album> High Country</album>
+        </entry>
+        <entry>
+            <artist>Syd Barrett</artist>
+            <album> The Madcap Laughs</album>
+        </entry>
+        <entry>
+            <artist>System of a Down</artist>
+            <album> System of a Down </album>
+        </entry>
+        <entry>
+            <artist>System of a Down</artist>
+            <album> Toxicity</album>
+        </entry>
+        <entry>
+            <artist>System of a Down</artist>
+            <album> Steal This Album!</album>
+        </entry>
+        <entry>
+            <artist>System of a Down</artist>
+            <album> Mezmerize</album>
+        </entry>
+        <entry>
+            <artist>Takako Mamiya</artist>
+            <album> 82 Love Trip</album>
+        </entry>
+        <entry>
+            <artist>Talking Heads</artist>
+            <album> Talking Heads 77</album>
+        </entry>
+        <entry>
+            <artist>Talking Heads</artist>
+            <album> More Songs About Buildings and Food</album>
+        </entry>
+        <entry>
+            <artist>Talking Heads</artist>
+            <album> Fear of Music</album>
+        </entry>
+        <entry>
+            <artist>Talking Heads</artist>
+            <album> Remain in Light</album>
+        </entry>
+        <entry>
+            <artist>Talking Heads</artist>
+            <album> The Name of This Band is Talking Heads</album>
+        </entry>
+        <entry>
+            <artist>Talking Heads</artist>
+            <album> Speaking in Tongues</album>
+        </entry>
+        <entry>
+            <artist>Talking Heads</artist>
+            <album> Stop Making Sense</album>
+        </entry>
+        <entry>
+            <artist>Talking Heads</artist>
+            <album> Little Creatures</album>
+        </entry>
+        <entry>
+            <artist>Talk Talk</artist>
+            <album> The Colour of Spring</album>
+        </entry>
+        <entry>
+            <artist>Talk Talk</artist>
+            <album> Laughing Stock</album>
+        </entry>
+        <entry>
+            <artist>Tame Impala</artist>
+            <album> Tame Impala</album>
+        </entry>
+        <entry>
+            <artist>Tame Impala</artist>
+            <album> Innerspeaker</album>
+        </entry>
+        <entry>
+            <artist>Tame Impala</artist>
+            <album> Lonerism</album>
+        </entry>
+        <entry>
+            <artist>Tame Impala</artist>
+            <album> The Slow Rush</album>
+        </entry>
+        <entry>
+            <artist>Tash Sultana</artist>
+            <album> Notion</album>
+        </entry>
+        <entry>
+            <artist>Tatsuro Yamashita</artist>
+            <album> For You</album>
+        </entry>
+        <entry>
+            <artist>Tatsuro Yamashita</artist>
+            <album> Pocket Music</album>
+        </entry>
+        <entry>
+            <artist>Tatsuro Yamashita</artist>
+            <album> Cozy</album>
+        </entry>
+        <entry>
+            <artist>Tea Party</artist>
+            <album> Transmission</album>
+        </entry>
+        <entry>
+            <artist>Tea Party</artist>
+            <album> Seven Circles</album>
+        </entry>
+        <entry>
+            <artist>Tears for Fears</artist>
+            <album> The Hurting</album>
+        </entry>
+        <entry>
+            <artist>Tears for Fears</artist>
+            <album> Songs from the Big Chair</album>
+        </entry>
+        <entry>
+            <artist>Tears for Fears</artist>
+            <album> The Seeds of Love</album>
+        </entry>
+        <entry>
+            <artist>Tears for Fears</artist>
+            <album> Raoul and the Kings of Spain</album>
+        </entry>
+        <entry>
+            <artist>Tears for Fears</artist>
+            <album> The Tipping Point</album>
+        </entry>
+        <entry>
+            <artist>TEKE::TEKE</artist>
+            <album> Shirushi</album>
+        </entry>
+        <entry>
+            <artist>Television</artist>
+            <album> Marquee Moon</album>
+        </entry>
+        <entry>
+            <artist>Temple of the Dog</artist>
+            <album> Temple of the Dog</album>
+        </entry>
+        <entry>
+            <artist>Temples</artist>
+            <album> Sun Structures</album>
+        </entry>
+        <entry>
+            <artist>Temples</artist>
+            <album> Volcano</album>
+        </entry>
+        <entry>
+            <artist>Temples</artist>
+            <album> Hot Motion</album>
+        </entry>
+        <entry>
+            <artist>Temples</artist>
+            <album> Exotico</album>
+        </entry>
+        <entry>
+            <artist>TesseracT</artist>
+            <album> Altered State</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> The Cool Death of Island Raiders</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Grave Blockers</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> The Master’s Bedroom is Worth Spending a Night In</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Help</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Warm Slime</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Carrion Crawler/The Dream</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Putrifiers II</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Floating Coffin</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Drop</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Mutilator Defeated At Last</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Live in San Francisco</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> A Weird Exits</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> An Odd Entrances</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Orc</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Memory of a Cut Off Head</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Smote Reverser</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Face Stabber</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Levitation Sessions</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Protean Threat</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Metamorphosed</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Panther Rotate</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Levitation Sessions Vol. II</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> A Foul Form</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Live at Levitation 2012</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> Intercepted Message</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> SORCS 80</album>
+        </entry>
+        <entry>
+            <artist>Thee Oh Sees</artist>
+            <album> SORCS 80 Live</album>
+        </entry>
+        <entry>
+            <artist>The The</artist>
+            <album> Dusk</album>
+        </entry>
+        <entry>
+            <artist>they are gutting a body of water</artist>
+            <album> s</album>
+        </entry>
+        <entry>
+            <artist>They Might Be Giants</artist>
+            <album> Lincoln</album>
+        </entry>
+        <entry>
+            <artist>They Might Be Giants</artist>
+            <album> Flood</album>
+        </entry>
+        <entry>
+            <artist>Thompson Twins</artist>
+            <album> Here’s To Future Days</album>
+        </entry>
+        <entry>
+            <artist>Thom Yorke</artist>
+            <album> Suspiria (Music for the Luca Guadagnino Film)</album>
+        </entry>
+        <entry>
+            <artist>Thom Yorke</artist>
+            <album> ANIMA</album>
+        </entry>
+        <entry>
+            <artist>Throwing Muses</artist>
+            <album> The Real Ramona </album>
+        </entry>
+        <entry>
+            <artist>Thundercat</artist>
+            <album> Drunk</album>
+        </entry>
+        <entry>
+            <artist>Tim Buckley</artist>
+            <album> Goodbye and Hello</album>
+        </entry>
+        <entry>
+            <artist>Tony Mottola</artist>
+            <album> Spanish Guitar</album>
+        </entry>
+        <entry>
+            <artist>Tool</artist>
+            <album> Undertow</album>
+        </entry>
+        <entry>
+            <artist>Tori Amos</artist>
+            <album> Little Earthquakes</album>
+        </entry>
+        <entry>
+            <artist>Tori Amos</artist>
+            <album> Under the Pink</album>
+        </entry>
+        <entry>
+            <artist>Tori Amos</artist>
+            <album> Boys for Pele</album>
+        </entry>
+        <entry>
+            <artist>Tori Amos</artist>
+            <album> From the Choirgirl Hotel</album>
+        </entry>
+        <entry>
+            <artist>Tori Amos</artist>
+            <album> Tales of a Librarian</album>
+        </entry>
+        <entry>
+            <artist>Tori Amos</artist>
+            <album> Ocean to Ocean</album>
+        </entry>
+        <entry>
+            <artist>Toshifumi Hinata</artist>
+            <album> Sarah’s Crime</album>
+        </entry>
+        <entry>
+            <artist>Toshifumi Hinata</artist>
+            <album> Story</album>
+        </entry>
+        <entry>
+            <artist>Toshifumi Hinata</artist>
+            <album> Tokyo Love Story</album>
+        </entry>
+        <entry>
+            <artist>TPR</artist>
+            <album> The Songs of Time</album>
+        </entry>
+        <entry>
+            <artist>Traffik Island</artist>
+            <album> Nature Strip</album>
+        </entry>
+        <entry>
+            <artist>Traffik Island</artist>
+            <album> Sweat Kollecta's Peanut Butter Traffik Jam</album>
+        </entry>
+        <entry>
+            <artist>Traffik Island</artist>
+            <album> A Shrug of the Shoulders</album>
+        </entry>
+        <entry>
+            <artist>Traffik Island</artist>
+            <album> Ghost Notes</album>
+        </entry>
+        <entry>
+            <artist>T. Rex</artist>
+            <album> T. Rex</album>
+        </entry>
+        <entry>
+            <artist>T. Rex</artist>
+            <album> Electric Warrior</album>
+        </entry>
+        <entry>
+            <artist>T. Rex</artist>
+            <album> The Slider</album>
+        </entry>
+        <entry>
+            <artist>Tropical Fuck Storm</artist>
+            <album> A Laughing Death in Meatspace</album>
+        </entry>
+        <entry>
+            <artist>Tropical Fuck Storm</artist>
+            <album> Braindrops</album>
+        </entry>
+        <entry>
+            <artist>Tropical Fuck Storm</artist>
+            <album> Deep States</album>
+        </entry>
+        <artist>Tropical Fuck Storm and King Gizzard and the Lizard Wizard</artist>
+        <album> Satanic Slumber Party </album>
+        <entry>
+            <artist>Tubeway Army</artist>
+            <album> Replicas</album>
+        </entry>
+        <entry>
+            <artist>Turtle Skull</artist>
+            <album> Monoliths</album>
+        </entry>
+        <entry>
+            <artist>TWRP</artist>
+            <album> Ladyworld</album>
+        </entry>
+        <entry>
+            <artist>TWRP</artist>
+            <album> Together Through Time</album>
+        </entry>
+        <entry>
+            <artist>TWRP</artist>
+            <album> Return to Wherever</album>
+        </entry>
+        <entry>
+            <artist>TWRP</artist>
+            <album> New and Improved</album>
+        </entry>
+        <entry>
+            <artist>Tyler, the Creator</artist>
+            <album> IGOR</album>
+        </entry>
+        <entry>
+            <artist>Tyler, the Creator</artist>
+            <album> CHROMAKOPIA</album>
+        </entry>
+        <entry>
+            <artist>Type O Negative</artist>
+            <album> Bloody Kisses</album>
+        </entry>
+        <entry>
+            <artist>Type O Negative</artist>
+            <album> October Rust</album>
+        </entry>
+        <entry>
+            <artist>Ty Segall</artist>
+            <album> Melted</album>
+        </entry>
+        <entry>
+            <artist>Ty Segall</artist>
+            <album> Twins</album>
+        </entry>
+        <entry>
+            <artist>Ty Segall</artist>
+            <album> Sleeper</album>
+        </entry>
+        <entry>
+            <artist>Ty Segall</artist>
+            <album> Manipulator</album>
+        </entry>
+        <entry>
+            <artist>Ty Segall</artist>
+            <album> Fried Shallots</album>
+        </entry>
+        <entry>
+            <artist>Ty Segall</artist>
+            <album> Freedom’s Goblin</album>
+        </entry>
+        <entry>
+            <artist>Ty Segall</artist>
+            <album> Fudge Sandwich</album>
+        </entry>
+        <entry>
+            <artist>Ty Segall</artist>
+            <album> First Taste</album>
+        </entry>
+        <entry>
+            <artist>Ty Segall</artist>
+            <album> Harmonizer</album>
+        </entry>
+        <entry>
+            <artist>Ty Segall</artist>
+            <album> “Hello, Hi”</album>
+        </entry>
+        <entry>
+            <artist>Ty Segall</artist>
+            <album> Three Bells</album>
+        </entry>
+        <entry>
+            <artist>Ty Segall</artist>
+            <album> Love Rudiments</album>
+        </entry>
+        <entry>
+            <artist>Ty Segall Band</artist>
+            <album> Slaughterhouse</album>
+        </entry>
+        <entry>
+            <artist>Uchu Nekoko</artist>
+            <album> Kimi no Youni Ikiretara</album>
+        </entry>
+        <entry>
+            <artist>Ultimate Spinach</artist>
+            <album> Behold and See</album>
+        </entry>
+        <entry>
+            <artist>Ulvesang</artist>
+            <album> Ulvesang</album>
+        </entry>
+        <entry>
+            <artist>Ulvesang</artist>
+            <album> The Hunt</album>
+        </entry>
+        <entry>
+            <artist>Uncle Acid and The Deadbeats</artist>
+            <album> Blood Lust</album>
+        </entry>
+        <entry>
+            <artist>Uncle Acid and The Deadbeats</artist>
+            <album> The Night Creeper</album>
+        </entry>
+        <entry>
+            <artist>Uncle Acid and The Deadbeats</artist>
+            <album> Wasteland</album>
+        </entry>
+        <entry>
+            <artist>Unknown Mortal Orchestra</artist>
+            <album> Unknown Mortal Orchestra</album>
+        </entry>
+        <entry>
+            <artist>Unknown Mortal Orchestra</artist>
+            <album> II</album>
+        </entry>
+        <entry>
+            <artist>Unknown Mortal Orchestra</artist>
+            <album> Sex and Food</album>
+        </entry>
+        <entry>
+            <artist>Unknown Mortal Orchestra</artist>
+            <album> IC-01 Hanoi</album>
+        </entry>
+        <entry>
+            <artist>Unknown Mortal Orchestra</artist>
+            <album> V</album>
+        </entry>
+        <entry>
+            <artist>Unknown Mortal Orchestra</artist>
+            <album> IC-02 Bogotá</album>
+        </entry>
+        <entry>
+            <artist>Vargskelethor</artist>
+            <album> Skeleton Metal</album>
+        </entry>
+        <entry>
+            <artist>Vargskelethor</artist>
+            <album> Skeleton Metal II</album>
+        </entry>
+        <entry>
+            <artist>Vargskelethor</artist>
+            <album> Super Ghostbusters</album>
+        </entry>
+        <entry>
+            <artist>Vargskelethor</artist>
+            <album> Skeleton Metal III</album>
+        </entry>
+        <entry>
+            <artist>Vargskelethor</artist>
+            <album> Skeleton Metal X</album>
+        </entry>
+        <entry>
+            <artist>Vargskelethor</artist>
+            <album> Sex in Minecraft</album>
+        </entry>
+        <entry>
+            <artist>Vargskelethor</artist>
+            <album> How To Be Cool</album>
+        </entry>
+        <entry>
+            <artist>Vashti Bunyan</artist>
+            <album> Just Another Diamond Day</album>
+        </entry>
+        <entry>
+            <artist>Vast</artist>
+            <album> Visual Audio Sensory Theater</album>
+        </entry>
+        <entry>
+            <artist>VCMG</artist>
+            <album> Ssss</album>
+        </entry>
+        <entry>
+            <artist>Viagra Boys</artist>
+            <album> Street Worms</album>
+        </entry>
+        <entry>
+            <artist>Viagra Boys</artist>
+            <album> Welfare Jazz</album>
+        </entry>
+        <entry>
+            <artist>Vine</artist>
+            <album> Room To Breathe</album>
+        </entry>
+        <entry>
+            <artist>Vishal Naidu</artist>
+            <album> Fragments of Serenity</album>
+        </entry>
+        <entry>
+            <artist>Voice Coils</artist>
+            <album> Heaven’s Sense</album>
+        </entry>
+        <entry>
+            <artist>Voivod</artist>
+            <album> Negatron</album>
+        </entry>
+        <entry>
+            <artist>Voivod</artist>
+            <album> The Wake</album>
+        </entry>
+        <entry>
+            <artist>Voivod</artist>
+            <album> Synchro Anarchy</album>
+        </entry>
+        <entry>
+            <artist>Vundabar</artist>
+            <album> Gawk</album>
+        </entry>
+        <entry>
+            <artist>Wand</artist>
+            <album> Ganglion Reef</album>
+        </entry>
+        <entry>
+            <artist>Wand</artist>
+            <album> Golem</album>
+        </entry>
+        <entry>
+            <artist>Wand</artist>
+            <album> Laughing Matter</album>
+        </entry>
+        <entry>
+            <artist>Wednesday</artist>
+            <album> Rat Saw God</album>
+        </entry>
+        <entry>
+            <artist>Ween</artist>
+            <album> GodWeenSatan: The Oneness</album>
+        </entry>
+        <entry>
+            <artist>Ween</artist>
+            <album> The Pod</album>
+        </entry>
+        <entry>
+            <artist>Ween</artist>
+            <album> Pure Guava</album>
+        </entry>
+        <entry>
+            <artist>Ween</artist>
+            <album> Chocolate and Cheese</album>
+        </entry>
+        <entry>
+            <artist>Ween</artist>
+            <album> 12 Golden Country Greats</album>
+        </entry>
+        <entry>
+            <artist>Ween</artist>
+            <album> The Mollusk</album>
+        </entry>
+        <entry>
+            <artist>Ween</artist>
+            <album> White Pepper</album>
+        </entry>
+        <entry>
+            <artist>Ween</artist>
+            <album> Quebec</album>
+        </entry>
+        <entry>
+            <artist>Ween</artist>
+            <album> Live in Chicago</album>
+        </entry>
+        <entry>
+            <artist>Ween</artist>
+            <album> At Cat’s Cradle, 1992</album>
+        </entry>
+        <entry>
+            <artist>Weyes Blood</artist>
+            <album> Titanic Rising</album>
+        </entry>
+        <entry>
+            <artist>Weyes Blood</artist>
+            <album> And In The Darkness, Hearts Aglow</album>
+        </entry>
+        <entry>
+            <artist>Wilbur Soot</artist>
+            <album> Your City Gave Me Asthma</album>
+        </entry>
+        <entry>
+            <artist>Wilderun</artist>
+            <album> Veil of Imagination</album>
+        </entry>
+        <entry>
+            <artist>Will Wood</artist>
+            <album> The Normal Album</album>
+        </entry>
+        <entry>
+            <artist>Will Wood</artist>
+            <album> “In Case I Make It,”</album>
+        </entry>
+        <entry>
+            <artist>Will Wood and The Tapeworms</artist>
+            <album> Everything is a Lot</album>
+        </entry>
+        <entry>
+            <artist>Will Wood and The Tapeworms</artist>
+            <album> SELF-iSH</album>
+        </entry>
+        <entry>
+            <artist>Windowshopping</artist>
+            <album> Andromeda</album>
+        </entry>
+        <entry>
+            <artist>Wine Lips</artist>
+            <album> Mushroom Death Sex Bummer Party</album>
+        </entry>
+        <entry>
+            <artist>World Standard</artist>
+            <album> Canon</album>
+        </entry>
+        <entry>
+            <artist>Xiu Xiu</artist>
+            <album> Plays the Music of Twin Peaks</album>
+        </entry>
+        <entry>
+            <artist>X-Ray Spex</artist>
+            <album> Germfree Adolescents</album>
+        </entry>
+        <entry>
+            <artist>XTC</artist>
+            <album> Drums and Wires</album>
+        </entry>
+        <entry>
+            <artist>XTC</artist>
+            <album> English Settlement</album>
+        </entry>
+        <entry>
+            <artist>The Yardbirds</artist>
+            <album> Roger the Engineer</album>
+        </entry>
+        <entry>
+            <artist>The Yardbirds</artist>
+            <album> Little Games</album>
+        </entry>
+        <entry>
+            <artist>Yasuaki Shimizu</artist>
+            <album> Kakashi</album>
+        </entry>
+        <entry>
+            <artist>Yellowcard</artist>
+            <album> Ocean Avenue </album>
+        </entry>
+        <entry>
+            <artist>Yellow Magic Orchestra</artist>
+            <album> Solid State Survivor</album>
+        </entry>
+        <entry>
+            <artist>Yellow Magic Orchestra</artist>
+            <album> Naughty Boys</album>
+        </entry>
+        <entry>
+            <artist>Yes</artist>
+            <album> Yes</album>
+        </entry>
+        <entry>
+            <artist>Yes</artist>
+            <album> Time and a Word</album>
+        </entry>
+        <entry>
+            <artist>Yes</artist>
+            <album> The Yes Album</album>
+        </entry>
+        <entry>
+            <artist>Yes</artist>
+            <album> Fragile</album>
+        </entry>
+        <entry>
+            <artist>Yes</artist>
+            <album> Close to the Edge</album>
+        </entry>
+        <entry>
+            <artist>Yes</artist>
+            <album> Relayer</album>
+        </entry>
+        <entry>
+            <artist>Yes</artist>
+            <album> Drama</album>
+        </entry>
+        <entry>
+            <artist>Yes</artist>
+            <album> 90125</album>
+        </entry>
+        <entry>
+            <artist>Yes</artist>
+            <album> 9012live: The Solos</album>
+        </entry>
+        <entry>
+            <artist>Yin Yin</artist>
+            <album> The Rabbit That Hunts Tigers</album>
+        </entry>
+        <entry>
+            <artist>Yin Yin</artist>
+            <album> The Age of Aquarius</album>
+        </entry>
+        <entry>
+            <artist>Yoshiaki Masuo</artist>
+            <album> The Song Is You and Me</album>
+        </entry>
+        <entry>
+            <artist>Yoshiko Sai</artist>
+            <album>Mangekyou</album>
+        </entry>
+        <entry>
+            <artist>You Slut!</artist>
+            <album> Medium Bastard</album>
+        </entry>
+        <entry>
+            <artist>You and The Explosion Band</artist>
+            <album> Love Saves the Earth</album>
+        </entry>
+        <entry>
+            <artist>You and The Explosion Band</artist>
+            <album> Full Course</album>
+        </entry>
+        <entry>
+            <artist>Yura Yura Teikoku</artist>
+            <album> Kudo Desu</album>
+        </entry>
+        <entry>
+            <artist>Zap</artist>
+            <album> Dream Traveler</album>
+        </entry>
+        <entry>
+            <artist>Zeahorse</artist>
+            <album> Torana Dreamin</album>
+        </entry>
+        <entry>
+            <artist>Zeahorse</artist>
+            <album> Let's Not (And Say We Did)</album>
+        </entry>
+        <entry>
+            <artist>Zerosen</artist>
+            <album> Asphalt </album>
+        </entry>
+        <entry>
+            <artist>The Zombies</artist>
+            <album> Begin Here</album>
+        </entry>
+        <entry>
+            <artist>The Zombies</artist>
+            <album> Odessey and Oracle</album>
+        </entry>
+    </list>
+</xml>
