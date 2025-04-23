@@ -7,9 +7,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         <link rel="stylesheet" type="text/css" href="style.css" />
-        <link rel="icon" type="image/x-icon" href="images\logo.ico"></link>
+        <link rel="icon" type="image/x-icon" href="images\logo.ico" />
 
-    
+
     </head>
 
     <body>
@@ -36,7 +36,7 @@
             <figure><img src="artwork\stuPort.png" /><figcaption>Stu Mackenzie Portrait,
                     2024.</figcaption></figure>
             <figure><img src="artwork\DevPort.png" /><figcaption>Dev Patel Portraits,
-                2024.</figcaption></figure>
+                    2024.</figcaption></figure>
             <figure><img src="artwork\StuPort2.png" /><figcaption>Stu Mackenzie Portrait,
                     2023.</figcaption></figure>
         </div>
@@ -57,11 +57,169 @@
         <hr />
         <br />
         <h1 id="svg"> SVG Work </h1>
+        <div class="center">
+            <section>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="200 0 600 600"
+                    preserveAspectRatio="xMinYMin meet">
+                    <desc>This is a drawing of an eyeball as an SVG warmup.</desc>
+                    <g alignment-baseline="baseline">
+                        <defs>
+                            <linearGradient id="grad1" x1="0%" x2="0%" y1="0%" y2="100%">
+                                <stop offset="0%" stop-color="#c5d5e6"/>
+                                <stop offset="100%" stop-color="white"/>
+                            </linearGradient>
+                            <linearGradient id="grad2" x1="0%" x2="0%" y1="0%" y2="100%">
+                                <stop offset="0%" stop-color="#23401d"/>
+                                <stop offset="100%" stop-color="#54a83d"/>
+                            </linearGradient>
+                            <filter id="f1" x="0" y="0">
+                                <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+                            </filter>
+                            <path id="ref" d="M 300 100 q 200 -100 400 0" stroke="black"
+                                stroke-width="3"/>
+                            <path id="refmirror" d="M 300 550 q 200 100 400 0" stroke="black"
+                                stroke-width="3"/>
+                        </defs>
+                        <!-- Eye -->
+                        <path id="lid" d="M 300 230 q 200 -100 400 0" stroke="black"
+                            stroke-width="3" fill="#989e8b"/>
+                        <ellipse rx="200" ry="105" cx="500" cy="300" fill="url(#grad1)"
+                            stroke="black" stroke-width="3"/>
+                        <circle cx="500" cy="300" r="100" fill="url(#grad2)" stroke="#23401d"
+                            stroke-width="3"/>
+                        <circle cx="500" cy="300" r="40" fill="black"/>
+                        <circle style="opacity:85%" cx="470" cy="270" r="20" fill="white"
+                            filter="url(#f1)"/>
+                        <!-- Eye Detail -->
+                        <ellipse rx="10" ry="30" cx="500" cy="230" fill="#d7ed68" filter="url(#f1)"/>
+                        <ellipse rx="30" ry="10" cx="430" cy="300" fill="#d7ed68" filter="url(#f1)"/>
+                        <ellipse rx="10" ry="30" cx="500" cy="370" fill="#d7ed68" filter="url(#f1)"/>
+                        <ellipse rx="30" ry="10" cx="570" cy="300" fill="#d7ed68" filter="url(#f1)"/>
+                        <!-- Lashes -->
+                        <line x1="240" y1="150" x2="370" y2="220"
+                            style="stroke:black;stroke-width:3"/>
+                        <line x1="760" y1="150" x2="630" y2="220"
+                            style="stroke:black;stroke-width:3"/>
+                        <line x1="240" y1="450" x2="370" y2="380"
+                            style="stroke:black;stroke-width:3"/>
+                        <line x1="760" y1="450" x2="630" y2="380"
+                            style="stroke:black;stroke-width:3"/>
+                        <line x1="500" y1="100" x2="500" y2="195"
+                            style="stroke:black;stroke-width:3"/>
+                        <line x1="500" y1="405" x2="500" y2="500"
+                            style="stroke:black;stroke-width:3"/>
+                        <!-- Note: href is marked wrong, but using the xlink format does not show up when previewing -->
+                        <text style="fill:red;font-size:25px;">
+                            <textPath href="#ref" startOffset="120">First SVG Image!</textPath>
+                            <textPath href="#refmirror" startOffset="120">First SVG
+                                Image!</textPath>
+                            <animateTransform attributeName="transform" begin="0s" dur="20s"
+                                type="rotate" from="0 500 300" to="360 500 300"
+                                repeatCount="indefinite"/>
+                        </text>
+                    </g>
+                </svg>
+            </section>
+            <h3>My first SVG file, demonstrating href usage and animation.</h3>
+        </div>
+        <div class="center">
+            <section>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="-35 -75 800 800"
+                    preserveAspectRatio="xMinYMin meet">
+                    <desc>A bar graph comparing three Pacific Islands</desc>
+                    <g alignment-baseline="baseline">
+                        <defs>
+                            <linearGradient id="tahiti" x1="0%" x2="0%" y1="0%" y2="100%">
+                                <stop offset="0%" stop-color="#fa75aa"/>
+                                <stop offset="100%" stop-color="#ed752b"/>
+                            </linearGradient>
+                            <linearGradient id="raiatea" x1="0%" x2="0%" y1="0%" y2="100%">
+                                <stop offset="0%" stop-color="#8eed95"/>
+                                <stop offset="100%" stop-color="#faff66"/>
+                            </linearGradient>
+                            <linearGradient id="tongatapu" x1="0%" x2="0%" y1="0%" y2="100%">
+                                <stop offset="0%" stop-color="#8bf0da"/>
+                                <stop offset="100%" stop-color="#627194"/>
+                            </linearGradient>
+                            <pattern id="by100" x="0" y="0" width="580" height="100"
+                                patternUnits="userSpaceOnUse">
+                                <line x1="0" y1="80" x2="580" y2="80" stroke="gray"
+                                    stroke-width="0.5"/>
+                            </pattern>
+                        </defs>
+                        <desc>Background</desc>
+                        <rect width="580" height="500" x="80" y="80" fill="url(#by100)"/>
+                        <desc>Islands</desc>
+                        <g transform="translate(80,80)">
+                            <desc>Tahiti</desc>
+                            <rect id="tahitiBar" width="160" height="404" x="20" y="96" rx="3"
+                                ry="3" style="fill:url(#tahiti);stroke-width:2;stroke:#ed752b">
+                                <set attributeName="fill" to="#ff5964" begin="tahitiBar.mouseover"
+                                    end="tahitiBar.mouseout"/>
+                            </rect>
+                            <desc>Raiatea</desc>
+                            <rect id="raiateaBar" width="160" height="65" x="210" y="435" rx="3"
+                                ry="3" style="fill:url(#raiatea);stroke-width:2;stroke:#8eed95">
+                                <set attributeName="fill" to="#ff5964" begin="raiateaBar.mouseover"
+                                    end="raiateaBar.mouseout"/>
+                            </rect>
+                            <desc>Tongatapu</desc>
+                            <rect id="tongBar" width="160" height="100" x="400" y="400" rx="3"
+                                ry="3" style="fill:url(#tongatapu);stroke-width:2;stroke:#627194">
+                                <set attributeName="fill" to="#ff5964" begin="tongBar.mouseover"
+                                    end="tongBar.mouseout"/></rect>
+                        </g>
+                        <!-- Below bars so the bottom line on axis isn't discolored  -->
+                        <desc>Axes</desc>
+                        <g transform="translate(80,80)">
+                            <line id="y" x1="0" y1="0" x2="0" y2="500" stroke="black"
+                                stroke-width="2"/>
+                            <line id="x" x1="0" y1="500" x2="580" y2="500" stroke="black"
+                                stroke-width="2"/>
+                        </g>
+                        <desc>Text</desc>
+                        <g>
+                            <g>
+                                <desc>Data Text</desc>
+                                <text x="230" y="50" font-size="35px">Pacific Islands by Sq. Ft </text>
+                                <text x="40" y="360" font-size="30px" text-anchor="middle"
+                                    transform="rotate(-90 40,340)">Area </text>
+                                <text x="140" y="620" font-size="30px" text-anchor="middle"
+                                    transform="rotate(35 150,680)"
+                                    style="fill:url(#tahiti); stroke-width:0.5; stroke:black;"
+                                    >Tahiti</text>
+                                <text x="330" y="620" font-size="30px" text-anchor="middle"
+                                    transform="rotate(35 330,680)"
+                                    style="fill:url(#raiatea); stroke-width:0.5; stroke:black;"
+                                    >Raiatea</text>
+                                <text x="500" y="620" font-size="30px" text-anchor="middle"
+                                    transform="rotate(35 500,750)"
+                                    style="fill:url(#tongatapu); stroke-width:0.5; stroke:black;"
+                                    >Tongatapu</text>
+                            </g>
+                            <g>
+                                <desc>Graph Orientation Text</desc>
+                                <text x="665" y="85" font-size="15px"
+                                    style="fill:gray; opacity:60%;">500 sq ft </text>
+                                <text x="665" y="185" font-size="15px"
+                                    style="fill:gray; opacity:60%;">400 sq ft</text>
+                                <text x="665" y="285" font-size="15px"
+                                    style="fill:gray; opacity:60%;">300 sq ft</text>
+                                <text x="665" y="385" font-size="15px"
+                                    style="fill:gray; opacity:60%;">200 sq ft</text>
+                                <text x="665" y="485" font-size="15px"
+                                    style="fill:gray; opacity:60%;">100 sq ft</text>
+                            </g>
+                        </g>
+                    </g>
+                </svg>
+            </section>
+        </div>
+        <br />
         <nav>
             <a href="#portrait"> | Portraits |</a>
             <a href="#ill"> Illustration |</a>
             <a href="#top"> Back to Top |</a>
         </nav>
-        <br />
     </body>
 </html>
